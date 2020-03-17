@@ -26,7 +26,7 @@
         {"name" : "태극동", "description" : "태권도", "link":""},
         {"name" : "RX'D", "description" : "크로스핏", "link":""},
         {"name" : "MAHA", "description" : "롱보드", "link":""},
-        {"name" : "HY-RIDE", "description" : "자전거", "link":""}
+        {"name" : "HY-RIDE", "description" : "자전거", "link":"https://www.facebook.com/ericadaesin/posts/3037969752891729"}
     ],
     "drawing":[
         {"name" : "아로새김", "description" : "미술,전시", "link":""},
@@ -54,7 +54,7 @@
     ],
     "volunteering":[
         {"name" : "후사", "description" : "봉사", "link":"https://www.facebook.com/ericadaesin/posts/3044958298859541"},
-        {"name" : "함께하냥", "description" : "유기동물 봉사", "link":""},
+        {"name" : "함께하냥", "description" : "유기동물 봉사", "link":"https://www.facebook.com/ericadaesin/posts/3037969752891729"},
         {"name" : "로타텍트", "description" : "봉사", "link":"https://www.facebook.com/ericadaesin/posts/3045273798827991"},
         {"name" : "황토", "description" : "농촌봉사", "link":""}
     ],
@@ -62,7 +62,7 @@
         {"name" : "유스호스텔", "description" : "여행", "link":""},
         {"name" : "기우회", "description" : "바둑,보드게임", "link":""},
         {"name" : "마티니", "description" : "칵테일", "link":"https://www.facebook.com/ericadaesin/posts/3040819865940051"},
-        {"name" : "E-리카", "description" : "게임", "link":""},
+        {"name" : "E-리카", "description" : "게임", "link":"https://www.facebook.com/ericadaesin/posts/3038099809545390"},
         {"name" : "TIME", "description" : "시사영어", "link":""},
         {"name" : "요리조리", "description" : "요리", "link":""}
     ],
