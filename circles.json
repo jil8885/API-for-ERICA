@@ -1,15 +1,15 @@
 {
     "software":[
-        {"name" : "자람", "description" : "코딩/전공세미나", "link":"https://www.facebook.com/ericadaesin/posts/3053355768019794"},
+        {"name" : "자람", "description" : "코딩/전공세미나학회", "link":"https://www.facebook.com/ericadaesin/posts/3053355768019794"},
         {"name" : "하이큐브", "description" : "정보보안학회", "link":"https://www.facebook.com/ericadaesin/posts/3042231435798894"},
-        {"name" : "영과일", "description" : "알고리즘", "link":"https://www.facebook.com/ericadaesin/posts/3036655446356493"},
-        {"name" : "알파", "description" : "앱 개발", "link":""}
+        {"name" : "영과일", "description" : "알고리즘학회", "link":"https://www.facebook.com/ericadaesin/posts/3036655446356493"},
+        {"name" : "알파", "description" : "앱개발 학회", "link":""}
     ],
     "ict":[
-        {"name" : "오버테일", "description" : "게임 개발", "link":"https://www.facebook.com/ericadaesin/posts/3037917479563623"}
+        {"name" : "오버테일", "description" : "게임개발 학회", "link":"https://www.facebook.com/ericadaesin/posts/3037917479563623"}
     ],
     "soft":[
-        {"name" : "JOY", "description" : "기타", "link":"https://www.facebook.com/ericadaesin/posts/3053357298019641"}
+        {"name" : "JOY", "description" : "기타동아리", "link":"https://www.facebook.com/ericadaesin/posts/3053357298019641"}
     ],
     "architecture":[],
     "civil":[],
@@ -20,19 +20,19 @@
         {"name" : "HY-ENA", "description" : "하드웨어/임베디드", "link":"https://www.facebook.com/ericadaesin/posts/3020605741294797"},
         {"name" : "HY-HIGH", "description" : "드론/하드웨어", "link":"https://www.facebook.com/ericadaesin/posts/3020604231294948"},
         {"name" : "HIDRA", "description" : "자율주행/임베디드", "link":"https://everytime.kr/418756/v/105917573"},
-        {"name" : "ISFC", "description" : "축구", "link":"https://www.facebook.com/ericadaesin/posts/3017304224958282"},
-        {"name" : "OHM", "description" : "농구", "link":"https://www.facebook.com/ericadaesin/posts/3013204162034955"}
+        {"name" : "ISFC", "description" : "축구동아리", "link":"https://www.facebook.com/ericadaesin/posts/3017304224958282"},
+        {"name" : "OHM", "description" : "농구동아리", "link":"https://www.facebook.com/ericadaesin/posts/3013204162034955"}
     ],
     "mechanic":[],
     "material":[],
     "industial":[],
     "bio":[],
     "robot":[
-        {"name" : "HYMEC", "description" : "로봇", "link":"https://www.facebook.com/ericadaesin/posts/3045314978823873"}
+        {"name" : "HYMEC", "description" : "전공학회", "link":"https://www.facebook.com/ericadaesin/posts/3045314978823873"}
     ],
     "military":[],
     "engineering":[
-        {"name" : "FOURTOR", "description" : "자작자동차", "link":"https://www.facebook.com/ericadaesin/posts/3049084475113590"}
+        {"name" : "FOURTOR", "description" : "자작자동차학회", "link":"https://www.facebook.com/ericadaesin/posts/3049084475113590"}
     ],
     "pharmacy":[],
     "math":[],
