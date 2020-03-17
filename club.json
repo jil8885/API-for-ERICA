@@ -13,7 +13,7 @@
         {"name" : "필소굿", "description" : "흑인음악", "link":""},
         {"name" : "우플", "description" : "우쿨렐레", "link":""},
         {"name" : "만취", "description" : "종합예술", "link":"https://www.facebook.com/ericadaesin/posts/3057996677555703"},
-        {"name" : "VIVA", "description" : "뮤지컬", "link":""}
+        {"name" : "VIVA", "description" : "뮤지컬", "link":"https://www.facebook.com/hyumusicalviva/"}
     ],
     "physical":[
         {"name" : "스카이 베가본드", "description" : "행글라이딩/패러글라이딩", "link":"https://www.facebook.com/ericadaesin/posts/3053702747985096"},
@@ -31,7 +31,7 @@
     "drawing":[
         {"name" : "아로새김", "description" : "미술,전시", "link":""},
         {"name" : "소나기", "description" : "영화", "link":""},
-        {"name" : "하이포커스", "description" : "사진", "link":""},
+        {"name" : "하이포커스", "description" : "사진", "link":"https://www.facebook.com/ericadaesin/posts/3031752746846763"},
         {"name" : "그림얼", "description" : "만화", "link":""}
     ],
     "studying":[
@@ -45,7 +45,7 @@
         {"name" : "프로핏", "description" : "금융투자", "link":""}
     ],
     "ball":[
-        {"name" : "탁우회", "description" : "탁구", "link":"https://everytime.kr/418756/v/108955355"},
+        {"name" : "탁우회", "description" : "탁구", "link":"https://www.facebook.com/ericadaesin/posts/3049088298446541"},
         {"name" : "FC한양", "description" : "축구", "link":""},
         {"name" : "하이바", "description" : "야구", "link":""},
         {"name" : "하이텍", "description" : "테니스", "link":""},
@@ -64,7 +64,7 @@
         {"name" : "마티니", "description" : "칵테일", "link":"https://www.facebook.com/ericadaesin/posts/3040819865940051"},
         {"name" : "E-리카", "description" : "게임", "link":"https://www.facebook.com/ericadaesin/posts/3038099809545390"},
         {"name" : "TIME", "description" : "시사영어", "link":""},
-        {"name" : "요리조리", "description" : "요리", "link":""}
+        {"name" : "요리조리", "description" : "요리", "link":"https://www.facebook.com/ericadaesin/posts/3051097444912293"}
     ],
     "religion":[
         {"name" : "네비게이토", "description" : "선교회", "link":""},
