@@ -1,0 +1,73 @@
+{
+    "performing":[
+        {"name" : "어우림", "description" : "합창,아카펠라", "link":""},
+        {"name" : "헤마", "description" : "밴드공연", "link":"https://www.facebook.com/ericadaesin/posts/3055977027757668"},
+        {"name" : "무삐", "description" : "극예술연구회", "link":"https://www.facebook.com/ericadaesin/posts/3043243665697671"},
+        {"name" : "뭉게구름", "description" : "어쿠스틱음악연구회", "link":"https://www.facebook.com/ericadaesin/posts/3046974295324608"},
+        {"name" : "하늬바람", "description" : "밴드사운드", "link":""},
+        {"name" : "파랑소래", "description" : "클래식기타", "link":"https://www.facebook.com/ericadaesin/posts/3056580227697348"},
+        {"name" : "미라클", "description" : "마술", "link":""},
+        {"name" : "DOH", "description" : "댄스", "link":"https://www.facebook.com/ericadaesin/posts/3053539474668090"},
+        {"name" : "살판", "description" : "창작굿연구회", "link":"https://www.facebook.com/ericadaesin/posts/3047527871935917"},
+        {"name" : "탈", "description" : "탈춤,풍물", "link":""},
+        {"name" : "필소굿", "description" : "흑인음악", "link":""}
+    ],
+    "physical":[
+        {"name" : "스카이 베가본드", "description" : "행글라이딩/패러글라이딩", "link":"https://www.facebook.com/ericadaesin/posts/3053702747985096"},
+        {"name" : "풀쓰로틀", "description" : "모터싸이클", "link":""},
+        {"name" : "해동검도", "description" : "민족검도연구", "link":""},
+        {"name" : "스킨스쿠버", "description" : "스킨&스쿠버 다이빙", "link":""},
+        {"name" : "검우회", "description" : "대한검도", "link":"https://www.facebook.com/ericadaesin/posts/3049875878367783"},
+        {"name" : "샷세", "description" : "댄스스포츠", "link":""},
+        {"name" : "요트부", "description" : "요트", "link":""},
+        {"name" : "한양유술회", "description" : "주짓수", "link":""},
+        {"name" : "태극동", "description" : "태권도", "link":""},
+        {"name" : "산악회", "description" : "등산", "link":""}
+    ],
+    "drawing":[
+        {"name" : "서예회", "description" : "서예&캘리그라피", "link":""},
+        {"name" : "소나기", "description" : "영화", "link":""},
+        {"name" : "하이포커스", "description" : "사진", "link":""},
+        {"name" : "그림얼", "description" : "만화", "link":""}
+    ],
+    "studying":[
+        {"name" : "알라", "description" : "영어청취", "link":""},
+        {"name" : "열끼", "description" : "멘토링", "link":""},
+        {"name" : "Cracker", "description" : "창작발명", "link":""},
+        {"name" : "KUSA", "description" : "토론동아리", "link":""},
+        {"name" : "다물", "description" : "역사,친목", "link":""}
+    ],
+    "ball":[
+        {"name" : "탁우회", "description" : "탁구", "link":"https://www.facebook.com/ericadaesin/posts/3049875878367783"},
+        {"name" : "FC한양", "description" : "축구", "link":""},
+        {"name" : "하이바", "description" : "야구", "link":""},
+        {"name" : "하이텍", "description" : "테니스", "link":""},
+        {"name" : "하이클리어", "description" : "배드민턴", "link":""},
+        {"name" : "타이푼", "description" : "농구", "link":"https://www.facebook.com/ericadaesin/posts/3043086575713380"}
+    ],
+    "volunteering":[
+        {"name" : "호우회", "description" : "국가 유공자&봉사", "link":""},
+        {"name" : "후사", "description" : "봉사", "link":"https://www.facebook.com/ericadaesin/posts/3044958298859541"},
+        {"name" : "손말사랑회", "description" : "수화,봉사", "link":""},
+        {"name" : "로타텍트", "description" : "봉사", "link":"https://www.facebook.com/ericadaesin/posts/3045273798827991"},
+        {"name" : "황토", "description" : "농촌봉사", "link":""}
+    ],
+    "culture":[
+        {"name" : "유스호스텔", "description" : "여행", "link":""},
+        {"name" : "기우회", "description" : "바둑,보드게임", "link":""},
+        {"name" : "하이코라", "description" : "컴퓨터", "link":""},
+        {"name" : "마티니", "description" : "칵테일", "link":"https://www.facebook.com/ericadaesin/posts/3040819865940051"},
+        {"name" : "TIME", "description" : "시사영어", "link":""},
+        {"name" : "HAM", "description" : "무선전파통신", "link":""}
+    ],
+    "religion":[
+        {"name" : "네비게이토", "description" : "기독교", "link":""},
+        {"name" : "CAM", "description" : "기독교", "link":""},
+        {"name" : "증산도", "description" : "증산도", "link":""},
+        {"name" : "CSA", "description" : "카톨릭", "link":""},
+        {"name" : "CCC", "description" : "기독교", "link":""},
+        {"name" : "EBS", "description" : "영어성경공부", "link":""},
+        {"name" : "CBA", "description" : "기독교", "link":""},
+        {"name" : "IVF", "description" : "기독교", "link":""}
+    ]
+}
