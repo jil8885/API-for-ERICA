@@ -10,7 +10,10 @@
         {"name" : "DOH", "description" : "댄스", "link":"https://www.facebook.com/ericadaesin/posts/3053539474668090"},
         {"name" : "살판", "description" : "창작굿연구회", "link":"https://www.facebook.com/ericadaesin/posts/3047527871935917"},
         {"name" : "탈", "description" : "탈춤,풍물", "link":""},
-        {"name" : "필소굿", "description" : "흑인음악", "link":""}
+        {"name" : "필소굿", "description" : "흑인음악", "link":""},
+        {"name" : "우플", "description" : "우쿨렐레", "link":""},
+        {"name" : "만취", "description" : "종합예술", "link":"https://www.facebook.com/ericadaesin/posts/3057996677555703"},
+        {"name" : "VIVA", "description" : "뮤지컬", "link":""}
     ],
     "physical":[
         {"name" : "스카이 베가본드", "description" : "행글라이딩/패러글라이딩", "link":"https://www.facebook.com/ericadaesin/posts/3053702747985096"},
@@ -18,14 +21,15 @@
         {"name" : "해동검도", "description" : "민족검도연구", "link":""},
         {"name" : "스킨스쿠버", "description" : "스킨&스쿠버 다이빙", "link":""},
         {"name" : "검우회", "description" : "대한검도", "link":"https://www.facebook.com/ericadaesin/posts/3049875878367783"},
-        {"name" : "샷세", "description" : "댄스스포츠", "link":""},
         {"name" : "요트부", "description" : "요트", "link":""},
         {"name" : "한양유술회", "description" : "주짓수", "link":""},
         {"name" : "태극동", "description" : "태권도", "link":""},
-        {"name" : "산악회", "description" : "등산", "link":""}
+        {"name" : "RX'D", "description" : "크로스핏", "link":""},
+        {"name" : "MAHA", "description" : "롱보드", "link":""},
+        {"name" : "HY-RIDE", "description" : "자전거", "link":""}
     ],
     "drawing":[
-        {"name" : "서예회", "description" : "서예&캘리그라피", "link":""},
+        {"name" : "아로새김", "description" : "미술,전시", "link":""},
         {"name" : "소나기", "description" : "영화", "link":""},
         {"name" : "하이포커스", "description" : "사진", "link":""},
         {"name" : "그림얼", "description" : "만화", "link":""}
@@ -35,7 +39,10 @@
         {"name" : "열끼", "description" : "멘토링", "link":""},
         {"name" : "Cracker", "description" : "창작발명", "link":""},
         {"name" : "KUSA", "description" : "토론동아리", "link":""},
-        {"name" : "다물", "description" : "역사,친목", "link":""}
+        {"name" : "다물", "description" : "역사,친목", "link":""},
+        {"name" : "하이코라", "description" : "컴퓨터", "link":""},
+        {"name" : "ALA", "description" : "영어회화", "link":""},
+        {"name" : "프로핏", "description" : "금융투자", "link":""}
     ],
     "ball":[
         {"name" : "탁우회", "description" : "탁구", "link":"https://www.facebook.com/ericadaesin/posts/3049875878367783"},
@@ -46,28 +53,27 @@
         {"name" : "타이푼", "description" : "농구", "link":"https://www.facebook.com/ericadaesin/posts/3043086575713380"}
     ],
     "volunteering":[
-        {"name" : "호우회", "description" : "국가 유공자&봉사", "link":""},
         {"name" : "후사", "description" : "봉사", "link":"https://www.facebook.com/ericadaesin/posts/3044958298859541"},
-        {"name" : "손말사랑회", "description" : "수화,봉사", "link":""},
+        {"name" : "함께하냥", "description" : "유기동물 봉사", "link":""},
         {"name" : "로타텍트", "description" : "봉사", "link":"https://www.facebook.com/ericadaesin/posts/3045273798827991"},
         {"name" : "황토", "description" : "농촌봉사", "link":""}
     ],
     "culture":[
         {"name" : "유스호스텔", "description" : "여행", "link":""},
         {"name" : "기우회", "description" : "바둑,보드게임", "link":""},
-        {"name" : "하이코라", "description" : "컴퓨터", "link":""},
         {"name" : "마티니", "description" : "칵테일", "link":"https://www.facebook.com/ericadaesin/posts/3040819865940051"},
+        {"name" : "E-리카", "description" : "게임", "link":""},
         {"name" : "TIME", "description" : "시사영어", "link":""},
-        {"name" : "HAM", "description" : "무선전파통신", "link":""}
+        {"name" : "요리조리", "description" : "요리", "link":""}
     ],
     "religion":[
-        {"name" : "네비게이토", "description" : "기독교", "link":""},
-        {"name" : "CAM", "description" : "기독교", "link":""},
-        {"name" : "증산도", "description" : "증산도", "link":""},
-        {"name" : "CSA", "description" : "카톨릭", "link":""},
-        {"name" : "CCC", "description" : "기독교", "link":""},
+        {"name" : "네비게이토", "description" : "선교회", "link":""},
+        {"name" : "CAM", "description" : "대학선교회", "link":""},
+        {"name" : "증산도", "description" : "한민족영성문화", "link":""},
+        {"name" : "CSA", "description" : "가톨릭", "link":""},
+        {"name" : "CCC", "description" : "대한기독교선교회", "link":""},
         {"name" : "EBS", "description" : "영어성경공부", "link":""},
-        {"name" : "CBA", "description" : "기독교", "link":""},
-        {"name" : "IVF", "description" : "기독교", "link":""}
+        {"name" : "CBA", "description" : "대학선교회", "link":""},
+        {"name" : "IVF", "description" : "한국기독학생회", "link":""}
     ]
 }
