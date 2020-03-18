@@ -17,7 +17,7 @@
     "electric":[
         {"name" : "Default", "description" : "전공학회", "link":"https://www.facebook.com/ericadaesin/posts/3054203627935008", "photo":"https://raw.githubusercontent.com/jil8885/djangoapp-kakao-i/master/templates/images/club/default.jpg", "width":480, "height":484},
         {"name" : "한배움지기", "description" : "전공학회", "link":"https://www.facebook.com/ericadaesin/posts/3038528899502481"},
-        {"name" : "HY-ENA", "description" : "하드웨어/임베디드", "link":"https://www.facebook.com/ericadaesin/posts/3020605741294797", "photo":"", "width":1280, "height":924},
+        {"name" : "HY-ENA", "description" : "하드웨어/임베디드", "link":"https://www.facebook.com/ericadaesin/posts/3020605741294797", "width":1280, "height":924},
         {"name" : "HY-HIGH", "description" : "드론/하드웨어", "link":"https://www.facebook.com/ericadaesin/posts/3020604231294948", "photo":"https://raw.githubusercontent.com/jil8885/djangoapp-kakao-i/master/templates/images/club/hyhigh.jpg", "width":1280, "height":924},
         {"name" : "HIDRA", "description" : "자율주행/임베디드", "link":"https://everytime.kr/418756/v/105917573"},
         {"name" : "ISFC", "description" : "축구동아리", "link":"https://www.facebook.com/ericadaesin/posts/3017304224958282"},

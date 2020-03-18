@@ -20,7 +20,7 @@
         {"name" : "풀쓰로틀", "description" : "모터싸이클", "link":""},
         {"name" : "해동검도", "description" : "민족검도연구", "link":""},
         {"name" : "스킨스쿠버", "description" : "스킨&스쿠버 다이빙", "link":""},
-        {"name" : "검우회", "description" : "대한검도", "link":"https://www.facebook.com/ericadaesin/posts/3049875878367783", "photo":"https://raw.githubusercontent.com/jil8885/djangoapp-kakao-i/master/templates/images/club/gumwoo.jpg", "width":1280, "height":1320},
+        {"name" : "검우회", "description" : "대한검도", "link":"https://www.facebook.com/ericadaesin/posts/3049875878367783", "photo":"https://raw.githubusercontent.com/jil8885/djangoapp-kakao-i/master/templates/images/club/gumwoo.png", "width":1280, "height":1320},
         {"name" : "요트부", "description" : "요트", "link":"https://everytime.kr/418756/v/107965988","photo":"https://raw.githubusercontent.com/jil8885/djangoapp-kakao-i/master/templates/images/club/hyyc.jpg", "width":1280, "height":1811},
         {"name" : "한양유술회", "description" : "주짓수", "link":""},
         {"name" : "태극동", "description" : "태권도", "link":""},
