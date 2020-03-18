@@ -23,7 +23,11 @@
         {"name" : "ISFC", "description" : "축구동아리", "link":"https://www.facebook.com/ericadaesin/posts/3017304224958282"},
         {"name" : "OHM", "description" : "농구동아리", "link":"https://www.facebook.com/ericadaesin/posts/3013204162034955", "photo":"https://cf-ea.everytime.kr/attach/155/22387649/everytime-web-1582296701719.jpg?Expires=1584528876&Key-Pair-Id=APKAICU6XZKH23IGASFA&Signature=gfiKsUMbCi~LXOMnN3YeQe3CUVgSlx9HKwAicsd0HWamaJGSfLwL39FHLKVu-LMUHD6zuEDtbuCS0PSroIfWrtavaxk-fTh2qVUUiyQ3zS4qVojTT0ynJTn5dnHU0Bmd-Wf6DTAvQQgVt-GNzIwusnthiq79G5JhAty0WUhE4~SMGp6CjTZvWRpKN9LCIGmUN5cSSBhqXyb3~o2-fETLE7Qn3DikX0lrsVSEvRvUl0pcRXR3h~bSQBk2woXn1YGwXL1CvSLvKIvsX3dw63YuLLijQL2tl8KXvdQicmvNwKOVtgPzvxAZeaY3Lg35KALK0adXDS1Qmd9JbYbpU2M0dg__", "width":1280, "height":1281}
     ],
-    "mechanic":[],
+    "mechanic":[
+        {"name" : "REAL", "description" : "전공학회\n신청기간:~3/22", "link":"https://forms.gle/7KeGEj6FHVk8W7Ti9"},
+        {"name" : "baqu4", "description" : "formula 자동차학회\nChassis:뼈대/Powertrain:엔진\nElectronics:제어/Aerodynamics:공력\nErgonomics:드라이버 중심 차체/Drivetrain:동력/총무부/대외협력부", "link":"https://docs.google.com/forms/d/1kLOFCL0wVy44t15ysBimVdMSaI5vh9kZgG5OOi8D878/edit"},
+        {"name" : "RED", "description" : "설계학회\n카티아,아두이노,매트랩,반도체 공정 등 다양한 설계 프로그램에 대한 스터디를 진행할 예정\n3/27까지, 위 링크는 학회원, 아래는 수습부원", "link":"http://naver.me/x0mgS8I7", "link2":"http://naver.me/5nVtOLZu"}
+    ],
     "material":[],
     "industial":[],
     "bio":[],
