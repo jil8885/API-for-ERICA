@@ -75,5 +75,8 @@
         {"name" : "EBS", "description" : "영어성경공부", "link":""},
         {"name" : "CBA", "description" : "대학선교회", "link":""},
         {"name" : "IVF", "description" : "한국기독학생회", "link":""}
+    ],
+    "others":[
+        {"name" : "멋쟁이 사자처럼", "description" : "멋쟁이 사자처럼 코딩교육/창업 동아리\nHack Your Life! 비전공자, 전공자 누구나 내 아이디어를 직접 웹 서비스로 구현하여 세상을 바꿀 수 있습니다.", "link":"https://www.facebook.com/likelion.hyuerica/posts/1295530423970689", "link2":"http://bit.ly/2IygLil", "link3":"https://open.kakao.com/o/sLJ9te0b", "photo":"https://raw.githubusercontent.com/jil8885/djangoapp-kakao-i/master/templates/images/club/hansomelion/HansomeLion1.jpeg", "width":1334, "height":1334}
     ]
 }
