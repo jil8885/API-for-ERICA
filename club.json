@@ -12,8 +12,8 @@
         {"name" : "탈", "description" : "탈춤,풍물", "link":""},
         {"name" : "필소굿", "description" : "흑인음악", "link":""},
         {"name" : "우플", "description" : "우쿨렐레", "link":""},
-        {"name" : "VIVA", "description" : "뮤지컬", "link":"https://www.facebook.com/hyumusicalviva"},
-        {"name" : "만취", "description" : "종합예술", "link":"https://www.facebook.com/ericadaesin/posts/3057996677555703", "photo":"https://raw.githubusercontent.com/jil8885/djangoapp-kakao-i/master/templates/images/club/manchi.jpg", "width":679, "height":960}
+        {"name" : "만취", "description" : "종합예술", "link":"https://www.facebook.com/ericadaesin/posts/3057996677555703", "photo":"https://raw.githubusercontent.com/jil8885/djangoapp-kakao-i/master/templates/images/club/manchi.jpg", "width":679, "height":960},
+        {"name" : "VIVA", "description" : "뮤지컬", "link":"https://www.facebook.com/hyumusicalviva"}
     ],
     "physical":[
         {"name" : "스카이 베가본드", "description" : "행글라이딩/패러글라이딩", "link":"https://www.facebook.com/ericadaesin/posts/3053702747985096", "photo":"https://raw.githubusercontent.com/jil8885/djangoapp-kakao-i/master/templates/images/club/skyvega.jpg", "width":1008, "height":1344},
