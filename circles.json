@@ -37,7 +37,7 @@
     ],
     "military":[],
     "engineering":[
-        {"name" : "FOURTOR", "description" : "자작자동차학회", "link":"https://www.facebook.com/ericadaesin/posts/3049084475113590"}
+        {"name" : "FOURTOR", "description" : "자작자동차학회", "link":"https://www.facebook.com/ericadaesin/posts/3049084475113590", "photo":"https://raw.githubusercontent.com/jil8885/djangoapp-kakao-i/master/templates/images/club/fourtor.jpg", "width":900, "height":900}
     ],
     "pharmacy":[],
     "math":[],

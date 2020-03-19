@@ -7,7 +7,7 @@
         {"name" : "살판", "description" : "창작굿연구회", "link":"https://www.facebook.com/ericadaesin/posts/3047527871935917", "photo":"https://raw.githubusercontent.com/jil8885/djangoapp-kakao-i/master/templates/images/club/salpan.jpg", "width":1125, "height":1501},
         {"name" : "만취", "description" : "종합예술", "link":"https://www.facebook.com/ericadaesin/posts/3057996677555703", "photo":"https://raw.githubusercontent.com/jil8885/djangoapp-kakao-i/master/templates/images/club/manchi.jpg", "width":679, "height":960},
         {"name" : "VIVA", "description" : "뮤지컬", "link":"https://www.facebook.com/hyumusicalviva", "photo":"https://raw.githubusercontent.com/jil8885/djangoapp-kakao-i/master/templates/images/club/viva.jpg", "width":960, "height":960},
-        {"name" : "DOH", "description" : "댄스", "link":"https://www.facebook.com/ericadaesin/posts/3053539474668090"},
+        {"name" : "DOH", "description" : "댄스", "link":"https://www.facebook.com/ericadaesin/posts/3053539474668090", "photo":"https://raw.githubusercontent.com/jil8885/djangoapp-kakao-i/master/templates/images/club/doh.jpg", "width":672, "height":960},
         {"name" : "하늬바람", "description" : "밴드사운드", "link":"https://www.facebook.com/ericadaesin/posts/3060740887281282"},
         {"name" : "탈", "description" : "탈춤,풍물", "link":""},
         {"name" : "필소굿", "description" : "흑인음악", "link":""},
