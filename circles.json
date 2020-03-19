@@ -3,7 +3,8 @@
         {"name" : "자람", "description" : "☆제작자가 다니는 학회\n코딩/전공세미나학회", "link":"https://www.facebook.com/ericadaesin/posts/3053355768019794", "photo":"https://raw.githubusercontent.com/jil8885/djangoapp-kakao-i/master/templates/images/club/jaram.jpg", "width":1280, "height":1280},
         {"name" : "하이큐브", "description" : "정보보안학회", "link":"https://www.facebook.com/ericadaesin/posts/3042231435798894", "photo":"https://raw.githubusercontent.com/jil8885/djangoapp-kakao-i/master/templates/images/club/hycube.jpg", "width":678, "height":960},
         {"name" : "영과일", "description" : "알고리즘학회", "link":"https://www.facebook.com/ericadaesin/posts/3036655446356493"},
-        {"name" : "알파", "description" : "앱개발 학회", "link":""}
+        {"name" : "알파", "description" : "앱개발 학회", "link":""},
+        {"name" : "FIFO", "description" : "축구/친목동아리", "link":"https://www.facebook.com/ericadaesin/posts/3063183433703694"}
     ],
     "ict":[
         {"name" : "오버테일", "description" : "게임개발 학회", "link":"https://www.facebook.com/ericadaesin/posts/3037917479563623","photo":"https://raw.githubusercontent.com/jil8885/djangoapp-kakao-i/master/templates/images/club/overtale.jpg", "width":721, "height":960}
