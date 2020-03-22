@@ -57,7 +57,7 @@
         {"name" : "함께하냥", "description" : "유기동물 봉사", "link":"https://www.facebook.com/ericadaesin/posts/3037969752891729", "photo":"https://raw.githubusercontent.com/jil8885/djangoapp-kakao-i/master/templates/images/club/hanyang.jpg", "width":1120, "height":1125},
         {"name" : "HACS", "description" : "교육기부, 멘토링", "link":"https://www.facebook.com/ericadaesin/posts/3063438977011473", "photo":"https://raw.githubusercontent.com/jil8885/djangoapp-kakao-i/master/templates/images/club/hacs.jpg", "width":720, "height":960},
         {"name" : "로타텍트", "description" : "봉사", "link":"https://www.facebook.com/ericadaesin/posts/3045273798827991"},
-        {"name" : "황토", "description" : "농촌봉사", "link":""}
+        {"name" : "황토", "description" : "농촌봉사\n🍇대부도 농촌 봉사활동 (사회학점 인정 활동)\n🌿환경 봉사활동 (하천 봉사 등)\n🎤재능 기부 봉사활동\n🔆그 외 봉사활동 추진", "link":"https://www.facebook.com/ericadaesin/posts/3063994596955911"}
     ],
     "culture":[
         {"name" : "마티니", "description" : "칵테일", "link":"https://www.facebook.com/ericadaesin/posts/3040819865940051", "photo":"https://raw.githubusercontent.com/jil8885/djangoapp-kakao-i/master/templates/images/club/matini.jpg", "width":670, "height":960},
