@@ -1,6 +1,6 @@
 {
     "performing":[
-        {"name" : "헤마", "description" : "밴드공연", "link":"https://www.facebook.com/ericadaesin/posts/3055977027757668", "photo":"https://raw.githubusercontent.com/jil8885/djangoapp-kakao-i/master/templates/images/club/hema.jpg", "width":900, "height":900},
+        {"name" : "헤마", "description" : "밴드공연", "link":"https://www.facebook.com/ericadaesin/posts/3055977027757668", "link2":"https://forms.gle/wv6VTsviHGMFXgf59","photo":"https://raw.githubusercontent.com/jil8885/djangoapp-kakao-i/master/templates/images/club/hema.jpg", "width":900, "height":900},
         {"name" : "무삐", "description" : "극예술연구회", "link":"https://www.facebook.com/ericadaesin/posts/3043243665697671", "photo":"https://raw.githubusercontent.com/jil8885/djangoapp-kakao-i/master/templates/images/club/mubbi.jpg", "width":960, "height":541},
         {"name" : "뭉게구름", "description" : "어쿠스틱음악연구회", "link":"https://www.facebook.com/ericadaesin/posts/3046974295324608", "photo":"https://raw.githubusercontent.com/jil8885/djangoapp-kakao-i/master/templates/images/club/Mungge.jpg", "width":960, "height":720},
         {"name" : "파랑소래", "description" : "클래식기타", "link":"https://www.facebook.com/ericadaesin/posts/3056580227697348", "photo":"https://raw.githubusercontent.com/jil8885/djangoapp-kakao-i/master/templates/images/club/parangsorae.jpg", "width":1280, "height":854},
@@ -8,13 +8,13 @@
         {"name" : "만취", "description" : "종합예술", "link":"https://www.facebook.com/ericadaesin/posts/3057996677555703", "photo":"https://raw.githubusercontent.com/jil8885/djangoapp-kakao-i/master/templates/images/club/manchi.jpg", "width":679, "height":960},
         {"name" : "VIVA", "description" : "뮤지컬", "link":"https://www.facebook.com/hyumusicalviva", "photo":"https://raw.githubusercontent.com/jil8885/djangoapp-kakao-i/master/templates/images/club/viva.jpg", "width":960, "height":960},
         {"name" : "DOH", "description" : "댄스", "link":"https://www.facebook.com/ericadaesin/posts/3053539474668090", "photo":"https://raw.githubusercontent.com/jil8885/djangoapp-kakao-i/master/templates/images/club/doh.jpg", "width":672, "height":960},
+        {"name" : "피치냥", "description" : "에리카 유일 피아노 동아리 ‘피치냥’", "link":"https://www.facebook.com/ericadaesin/posts/3072385726116798", "link2":"https://form.office.naver.com/form/responseViewMobile.cmd?formkey=OGIzMzY3YzctYWU1Yy00YWU1LWEwZjQtNjI4N2I5OTQwZDFk", "photo":"https://raw.githubusercontent.com/jil8885/djangoapp-kakao-i/master/templates/images/club/pichinyang.jpg", "width":768, "height":768},
+        {"name" : "어우림", "description" : "🎼한양대학교 ERICA 천상의 화음을 자랑하는 '어우림'", "link":"https://www.facebook.com/ericadaesin/posts/3070559842966053", "photo":"https://raw.githubusercontent.com/jil8885/djangoapp-kakao-i/master/templates/images/club/ourim.jpg", "width":960, "height":960},
         {"name" : "하늬바람", "description" : "밴드사운드", "link":"https://www.facebook.com/ericadaesin/posts/3060740887281282"},
         {"name" : "탈", "description" : "탈춤,풍물", "link":""},
         {"name" : "필소굿", "description" : "흑인음악", "link":""},
         {"name" : "우플", "description" : "우쿨렐레", "link":""},
-        {"name" : "어우림", "description" : "합창,아카펠라", "link":""},
-        {"name" : "미라클", "description" : "마술", "link":""},
-        {"name" : "피치냥", "description" : "피아노", "link":""}
+        {"name" : "미라클", "description" : "마술", "link":""}
     ],
     "physical":[
         {"name" : "스카이 베가본드", "description" : "행글라이딩/패러글라이딩", "link":"https://www.facebook.com/ericadaesin/posts/3053702747985096", "photo":"https://raw.githubusercontent.com/jil8885/djangoapp-kakao-i/master/templates/images/club/skyvega.jpg", "width":1008, "height":1344},
