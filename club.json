@@ -36,7 +36,7 @@
     ],
     "studying":[
         {"name" : "Cracker", "description" : "창작발명", "link":"https://everytime.kr/418756/v/110318602", "photo":"https://raw.githubusercontent.com/jil8885/djangoapp-kakao-i/master/templates/images/club/cracker.jpg", "width":842, "height":1191},
-        {"name" : "KUSA", "description" : "<동아리 소개>\n✔중앙동아리 소속으로 작년에 40주년을 맞은 역사와 유대가 깊은 토론동아리입니다.\n✔토론동아리라고 지루한 토론만???\nNO!! 가볍고 재밌는 주제의 토론과 대학생들이 한번쯤 고민해볼만한 토론 또한 진행합니다!\n✔토론동아리라고 토론만???\nUNESCO 연합활동과 다른 학교와의 연합활동 같은 여러 대외활동, 그리고 벛꽃총회, 치킨총회, 창립제 등 다양한 대내활동이 진행됩니다!", "link":"https://everytime.kr/367423/v/112020146"},
+        {"name" : "KUSA", "description" : "<동아리 소개>\n✔작년에 40주년을 맞은 토론동아리\n✔토론동아리라고 지루한 토론만?\nNO! 가볍고 재밌는 주제나 대학생들이 한번쯤 고민해볼만한 토론 진행\n", "link":"https://everytime.kr/367423/v/112020146"},
         {"name" : "알라", "description" : "영어청취", "link":""},
         {"name" : "열끼", "description" : "멘토링", "link":""},
         {"name" : "다물", "description" : "역사,친목", "link":""},
