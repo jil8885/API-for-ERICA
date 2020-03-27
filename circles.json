@@ -21,7 +21,7 @@
         {"name" : "HY-ENA", "description" : "하드웨어/임베디드", "link":"https://www.facebook.com/ericadaesin/posts/3020605741294797", "width":1280, "height":924},
         {"name" : "HY-HIGH", "description" : "드론/하드웨어", "link":"https://www.facebook.com/ericadaesin/posts/3020604231294948", "photo":"https://raw.githubusercontent.com/jil8885/djangoapp-kakao-i/master/templates/images/club/hyhigh.jpg", "width":1280, "height":924},
         {"name" : "HIDRA", "description" : "자율주행/임베디드", "link":"https://www.facebook.com/hanyanghidra", "photo":"https://raw.githubusercontent.com/jil8885/djangoapp-kakao-i/020a524e0a80baf7f95356d4ee66bdb40665851c/templates/images/club/hidra.png", "width":960, "height":960},
-        {"name" : "ISFC", "description" : "축구동아리", "link":"https://www.facebook.com/ericadaesin/posts/3017304224958282"},
+        {"name" : "ISFC", "description" : "축구동아리", "link":"https://www.facebook.com/ericadaesin/posts/3017304224958282", "photo":"https://raw.githubusercontent.com/jil8885/djangoapp-kakao-i/master/templates/images/club/isfc.png", "width":696, "height":564},
         {"name" : "OHM", "description" : "농구동아리", "link":"https://www.facebook.com/ericadaesin/posts/3013204162034955", "photo":"https://raw.githubusercontent.com/jil8885/djangoapp-kakao-i/master/templates/images/club/ohm.jpg", "width":1280, "height":1281}
     ],
     "mechanic":[
