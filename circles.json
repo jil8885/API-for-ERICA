@@ -62,7 +62,8 @@
     ],
     "economy_college":[
         {"name" : "TRAVIS", "description" : "경상대학 여행학회", "link" : "https://www.facebook.com/729920077030053/posts/3090209031001134", "photo":"https://raw.githubusercontent.com/jil8885/django-mainline/master/hyuabot/templates/images/club/travis.jpg", "width" : 959, "height":535},
-        {"name" : "MAVEN", "description" : "경상대학 축구/풋살 학회", "link" : "https://www.facebook.com/729920077030053/posts/3091581760863861", "photo":"https://raw.githubusercontent.com/jil8885/django-mainline/master/hyuabot/templates/images/club/maven.png", "width" : 268, "height":268}
+        {"name" : "MAVEN", "description" : "경상대학 축구/풋살 학회", "link" : "https://www.facebook.com/729920077030053/posts/3091581760863861", "photo":"https://raw.githubusercontent.com/jil8885/django-mainline/master/hyuabot/templates/images/club/maven.png", "width" : 268, "height":268},
+        {"name" : "퓨어", "description" : "The PurE는 경상대학 유일무이 밴드학회입니다.🎶\n대학생활을 즐기고 싶은 분!\n악기를 배워보고 싶은 분!\n선배, 동기들과 다양한 추억을 쌓고 싶은 분!", "link":"https://www.facebook.com/729920077030053/posts/3090251474330223"}
     ],
     "economy":[
         {"name" : "시시비비", "description" : "경제학부 발표학회", "link" : "https://www.facebook.com/729920077030053/posts/3091738584181512", "photo":"https://raw.githubusercontent.com/jil8885/django-mainline/master/hyuabot/templates/images/club/sisibibi.jpg", "width" : 596, "height":842},
