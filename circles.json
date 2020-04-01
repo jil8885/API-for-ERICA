@@ -60,8 +60,18 @@
         {"name" : "무애", "description" : "댄스", "link":"https://www.facebook.com/hyericabaro/videos/1295708653972780/", "photo":"https://raw.githubusercontent.com/jil8885/djangoapp-kakao-i/master/templates/images/club/muae.jpg", "width":1280, "height":1811},
         {"name" : "CRUX", "description" : "밴드동아리\n모집분야:기타,드럼,베이스,보컬,키보드\n활동:연2회 공연,매주 목요일 정기모임&뒷풀이,세션별 멘토링,보컬 클래스,MT", "link":"http://naver.me/xqGnPF58", "link2": "https://open.kakao.com/o/ssYdOI1b", "photo" : "https://raw.githubusercontent.com/jil8885/djangoapp-kakao-i/master/templates/images/club/CRUX/CRUX1.jpeg", "width" : 900, "height" : 900}
     ],
-    "economy":[],
-    "biz":[],
+    "economy_college":[
+        {"name" : "TRAVIS", "description" : "경상대학 여행학회", "link" : "https://www.facebook.com/729920077030053/posts/3090209031001134", "photo":"https://raw.githubusercontent.com/jil8885/django-mainline/master/hyuabot/templates/images/club/travis.jpg", "width" : 959, "height":535},
+        {"name" : "MAVEN", "description" : "경상대학 축구/풋살 학회", "link" : "https://www.facebook.com/729920077030053/posts/3091581760863861", "photo":"https://raw.githubusercontent.com/jil8885/django-mainline/master/hyuabot/templates/images/club/maven.png", "width" : 268, "height":268}
+    ],
+    "economy":[
+        {"name" : "시시비비", "description" : "경제학부 발표학회", "link" : "https://www.facebook.com/729920077030053/posts/3091738584181512", "photo":"https://raw.githubusercontent.com/jil8885/django-mainline/master/hyuabot/templates/images/club/sisibibi.jpg", "width" : 596, "height":842},
+        {"name" : "수평사고", "description" : "경제학부 토론학회", "link" : "https://www.facebook.com/729920077030053/posts/3091960007492703", "photo":"https://raw.githubusercontent.com/jil8885/django-mainline/master/hyuabot/templates/images/club/soopyeong.jpg", "width" : 960, "height":960}
+    ],
+    "biz":[
+        {"name" : "광야", "description" : "경영학부 수상레저학회", "link" : "https://www.facebook.com/위풍당당-행세광야-180090105971153", "photo":"https://raw.githubusercontent.com/jil8885/django-mainline/master/hyuabot/templates/images/club/gwangya.jpg", "width" : 720, "height":720},
+        {"name" : "한사랑", "description" : "경영학부 토론학회", "link" : "https://www.facebook.com/729920077030053/posts/3091579444197426", "photo":"https://raw.githubusercontent.com/jil8885/django-mainline/master/hyuabot/templates/images/club/hansarang.jpg", "width" : 959, "height":600}
+    ],
     "insurance":[],
     "tax":[],
     "design":[
