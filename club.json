@@ -1,15 +1,15 @@
 {
     "performing":[
-        {"name" : "헤마", "description" : "밴드공연", "link":"https://www.facebook.com/ericadaesin/posts/3055977027757668", "link2":"https://forms.gle/wv6VTsviHGMFXgf59","photo":"https://raw.githubusercontent.com/jil8885/djangoapp-kakao-i/master/templates/images/club/hema.jpg", "width":900, "height":900},
-        {"name" : "무삐", "description" : "극예술연구회", "link":"https://www.facebook.com/ericadaesin/posts/3043243665697671", "photo":"https://raw.githubusercontent.com/jil8885/djangoapp-kakao-i/master/templates/images/club/mubbi.jpg", "width":960, "height":541},
-        {"name" : "뭉게구름", "description" : "어쿠스틱음악연구회", "link":"https://www.facebook.com/ericadaesin/posts/3046974295324608", "photo":"https://raw.githubusercontent.com/jil8885/djangoapp-kakao-i/master/templates/images/club/Mungge.jpg", "width":960, "height":720},
-        {"name" : "파랑소래", "description" : "클래식기타", "link":"https://www.facebook.com/ericadaesin/posts/3056580227697348", "photo":"https://raw.githubusercontent.com/jil8885/djangoapp-kakao-i/master/templates/images/club/parangsorae.jpg", "width":1280, "height":854},
-        {"name" : "살판", "description" : "창작굿연구회", "link":"https://www.facebook.com/ericadaesin/posts/3047527871935917", "photo":"https://raw.githubusercontent.com/jil8885/djangoapp-kakao-i/master/templates/images/club/salpan.jpg", "width":1125, "height":1501},
-        {"name" : "만취", "description" : "종합예술", "link":"https://www.facebook.com/ericadaesin/posts/3057996677555703", "photo":"https://raw.githubusercontent.com/jil8885/djangoapp-kakao-i/master/templates/images/club/manchi.jpg", "width":679, "height":960},
-        {"name" : "VIVA", "description" : "뮤지컬", "link":"https://www.facebook.com/hyumusicalviva", "photo":"https://raw.githubusercontent.com/jil8885/djangoapp-kakao-i/master/templates/images/club/viva.jpg", "width":960, "height":960},
-        {"name" : "DOH", "description" : "댄스", "link":"https://www.facebook.com/ericadaesin/posts/3053539474668090", "photo":"https://raw.githubusercontent.com/jil8885/djangoapp-kakao-i/master/templates/images/club/doh.jpg", "width":672, "height":960},
-        {"name" : "피치냥", "description" : "에리카 유일 피아노 동아리 ‘피치냥’", "link":"https://www.facebook.com/ericadaesin/posts/3072385726116798", "link2":"https://form.office.naver.com/form/responseViewMobile.cmd?formkey=OGIzMzY3YzctYWU1Yy00YWU1LWEwZjQtNjI4N2I5OTQwZDFk", "photo":"https://raw.githubusercontent.com/jil8885/djangoapp-kakao-i/master/templates/images/club/pichinyang.jpg", "width":768, "height":768},
-        {"name" : "어우림", "description" : "🎼한양대학교 ERICA 천상의 화음을 자랑하는 '어우림'", "link":"https://www.facebook.com/ericadaesin/posts/3070559842966053", "photo":"https://raw.githubusercontent.com/jil8885/djangoapp-kakao-i/master/templates/images/club/ourim.jpg", "width":960, "height":960},
+        {"name" : "헤마", "description" : "밴드공연", "link":"https://www.facebook.com/ericadaesin/posts/3055977027757668", "link2":"https://forms.gle/wv6VTsviHGMFXgf59","photo":"https://raw.githubusercontent.com/jil8885/ERICA_api/master/images/club/hema.jpg", "width":900, "height":900},
+        {"name" : "무삐", "description" : "극예술연구회", "link":"https://www.facebook.com/ericadaesin/posts/3043243665697671", "photo":"https://raw.githubusercontent.com/jil8885/ERICA_api/master/images/club/mubbi.jpg", "width":960, "height":541},
+        {"name" : "뭉게구름", "description" : "어쿠스틱음악연구회", "link":"https://www.facebook.com/ericadaesin/posts/3046974295324608", "photo":"https://raw.githubusercontent.com/jil8885/ERICA_api/master/images/club/Mungge.jpg", "width":960, "height":720},
+        {"name" : "파랑소래", "description" : "클래식기타", "link":"https://www.facebook.com/ericadaesin/posts/3056580227697348", "photo":"https://raw.githubusercontent.com/jil8885/ERICA_api/master/images/club/parangsorae.jpg", "width":1280, "height":854},
+        {"name" : "살판", "description" : "창작굿연구회", "link":"https://www.facebook.com/ericadaesin/posts/3047527871935917", "photo":"https://raw.githubusercontent.com/jil8885/ERICA_api/master/images/club/salpan.jpg", "width":1125, "height":1501},
+        {"name" : "만취", "description" : "종합예술", "link":"https://www.facebook.com/ericadaesin/posts/3057996677555703", "photo":"https://raw.githubusercontent.com/jil8885/ERICA_api/master/images/club/manchi.jpg", "width":679, "height":960},
+        {"name" : "VIVA", "description" : "뮤지컬", "link":"https://www.facebook.com/hyumusicalviva", "photo":"https://raw.githubusercontent.com/jil8885/ERICA_api/master/images/club/viva.jpg", "width":960, "height":960},
+        {"name" : "DOH", "description" : "댄스", "link":"https://www.facebook.com/ericadaesin/posts/3053539474668090", "photo":"https://raw.githubusercontent.com/jil8885/ERICA_api/master/images/club/doh.jpg", "width":672, "height":960},
+        {"name" : "피치냥", "description" : "에리카 유일 피아노 동아리 ‘피치냥’", "link":"https://www.facebook.com/ericadaesin/posts/3072385726116798", "link2":"https://form.office.naver.com/form/responseViewMobile.cmd?formkey=OGIzMzY3YzctYWU1Yy00YWU1LWEwZjQtNjI4N2I5OTQwZDFk", "photo":"https://raw.githubusercontent.com/jil8885/ERICA_api/master/images/club/pichinyang.jpg", "width":768, "height":768},
+        {"name" : "어우림", "description" : "🎼한양대학교 ERICA 천상의 화음을 자랑하는 '어우림'", "link":"https://www.facebook.com/ericadaesin/posts/3070559842966053", "photo":"https://raw.githubusercontent.com/jil8885/ERICA_api/master/images/club/ourim.jpg", "width":960, "height":960},
         {"name" : "하늬바람", "description" : "밴드사운드", "link":"https://www.facebook.com/ericadaesin/posts/3060740887281282"},
         {"name" : "탈", "description" : "탈춤,풍물", "link":""},
         {"name" : "필소굿", "description" : "흑인음악", "link":""},
@@ -17,10 +17,10 @@
         {"name" : "미라클", "description" : "마술", "link":""}
     ],
     "physical":[
-        {"name" : "스카이 베가본드", "description" : "행글라이딩/패러글라이딩", "link":"https://www.facebook.com/ericadaesin/posts/3053702747985096", "photo":"https://raw.githubusercontent.com/jil8885/djangoapp-kakao-i/master/templates/images/club/skyvega.jpg", "width":1008, "height":1344},
-        {"name" : "검우회", "description" : "대한검도", "link":"https://www.facebook.com/ericadaesin/posts/3049875878367783", "photo":"https://raw.githubusercontent.com/jil8885/djangoapp-kakao-i/master/templates/images/club/gumwoo.png", "width":1280, "height":1320},
-        {"name" : "요트부", "description" : "요트", "link":"https://everytime.kr/418756/v/107965988","photo":"https://raw.githubusercontent.com/jil8885/djangoapp-kakao-i/master/templates/images/club/hyyc.jpg", "width":1280, "height":1811},
-        {"name" : "MAHA", "description" : "롱보드", "link":"https://everytime.kr/418756/v/108811069", "photo":"https://raw.githubusercontent.com/jil8885/djangoapp-kakao-i/master/templates/images/club/maha.jpg", "width":480, "height":480},
+        {"name" : "스카이 베가본드", "description" : "행글라이딩/패러글라이딩", "link":"https://www.facebook.com/ericadaesin/posts/3053702747985096", "photo":"https://raw.githubusercontent.com/jil8885/ERICA_api/master/images/club/skyvega.jpg", "width":1008, "height":1344},
+        {"name" : "검우회", "description" : "대한검도", "link":"https://www.facebook.com/ericadaesin/posts/3049875878367783", "photo":"https://raw.githubusercontent.com/jil8885/ERICA_api/master/images/club/gumwoo.png", "width":1280, "height":1320},
+        {"name" : "요트부", "description" : "요트", "link":"https://everytime.kr/418756/v/107965988","photo":"https://raw.githubusercontent.com/jil8885/ERICA_api/master/images/club/hyyc.jpg", "width":1280, "height":1811},
+        {"name" : "MAHA", "description" : "롱보드", "link":"https://everytime.kr/418756/v/108811069", "photo":"https://raw.githubusercontent.com/jil8885/ERICA_api/master/images/club/maha.jpg", "width":480, "height":480},
         {"name" : "HY-RIDE", "description" : "자전거", "link":"https://www.facebook.com/ericadaesin/posts/3037969752891729"},
         {"name" : "풀쓰로틀", "description" : "모터싸이클", "link":""},
         {"name" : "해동검도", "description" : "민족검도연구", "link":""},
@@ -29,13 +29,13 @@
         {"name" : "태극동", "description" : "태권도", "link":""}
     ],
     "drawing":[
-        {"name" : "아로새김", "description" : "미술,전시", "link":"https://forms.gle/5rBYohVPY5XU2Uqs7", "photo":"https://raw.githubusercontent.com/jil8885/djangoapp-kakao-i/master/templates/images/club/arosagim.jpeg", "width":679, "height":961},
-        {"name" : "하이포커스", "description" : "사진", "link":"https://www.facebook.com/ericadaesin/posts/3031752746846763", "photo":"https://raw.githubusercontent.com/jil8885/djangoapp-kakao-i/master/templates/images/club/hyfocus.jpg", "width":880, "height":810},
+        {"name" : "아로새김", "description" : "미술,전시", "link":"https://forms.gle/5rBYohVPY5XU2Uqs7", "photo":"https://raw.githubusercontent.com/jil8885/ERICA_api/master/images/club/arosagim.jpeg", "width":679, "height":961},
+        {"name" : "하이포커스", "description" : "사진", "link":"https://www.facebook.com/ericadaesin/posts/3031752746846763", "photo":"https://raw.githubusercontent.com/jil8885/ERICA_api/master/images/club/hyfocus.jpg", "width":880, "height":810},
         {"name" : "그림얼", "description" : "만화", "link":"https://www.facebook.com/ericadaesin/posts/3061216950567009", "link2":"http://naver.me/5dnshYzK"},
         {"name" : "소나기", "description" : "영화", "link":""}
     ],
     "studying":[
-        {"name" : "Cracker", "description" : "창작발명", "link":"https://everytime.kr/418756/v/110318602", "photo":"https://raw.githubusercontent.com/jil8885/djangoapp-kakao-i/master/templates/images/club/cracker.jpg", "width":842, "height":1191},
+        {"name" : "Cracker", "description" : "창작발명", "link":"https://everytime.kr/418756/v/110318602", "photo":"https://raw.githubusercontent.com/jil8885/ERICA_api/master/images/club/cracker.jpg", "width":842, "height":1191},
         {"name" : "KUSA", "description" : "<동아리 소개>\n✔작년에 40주년을 맞은 토론동아리\n✔토론동아리라고 지루한 토론만?\nNO! 가볍고 재밌는 주제나 대학생들이 한번쯤 고민해볼만한 토론 진행\n", "link":"https://everytime.kr/367423/v/112020146"},
         {"name" : "알라", "description" : "영어청취", "link":""},
         {"name" : "열끼", "description" : "멘토링", "link":""},
@@ -45,7 +45,7 @@
         {"name" : "프로핏", "description" : "금융투자", "link":""}
     ],
     "ball":[
-        {"name" : "타이푼", "description" : "농구", "link":"https://www.facebook.com/ericadaesin/posts/3043086575713380", "photo":"https://raw.githubusercontent.com/jil8885/djangoapp-kakao-i/master/templates/images/club/typhoon.jpg", "width":905, "height":1015},
+        {"name" : "타이푼", "description" : "농구", "link":"https://www.facebook.com/ericadaesin/posts/3043086575713380", "photo":"https://raw.githubusercontent.com/jil8885/ERICA_api/master/images/club/typhoon.jpg", "width":905, "height":1015},
         {"name" : "탁우회", "description" : "탁구", "link":"https://www.facebook.com/ericadaesin/posts/3049088298446541"},
         {"name" : "FC한양", "description" : "축구", "link":""},
         {"name" : "하이바", "description" : "야구", "link":""},
@@ -53,15 +53,15 @@
         {"name" : "하이클리어", "description" : "배드민턴", "link":""}
     ],
     "volunteering":[
-        {"name" : "후사", "description" : "봉사", "link":"https://www.facebook.com/ericadaesin/posts/3044958298859541", "photo":"https://raw.githubusercontent.com/jil8885/djangoapp-kakao-i/master/templates/images/club/husa.jpg", "width":1114, "height":969},
-        {"name" : "함께하냥", "description" : "유기동물 봉사", "link":"https://www.facebook.com/ericadaesin/posts/3037969752891729", "photo":"https://raw.githubusercontent.com/jil8885/djangoapp-kakao-i/master/templates/images/club/hanyang.jpg", "width":1120, "height":1125},
-        {"name" : "HACS", "description" : "교육기부, 멘토링", "link":"https://www.facebook.com/ericadaesin/posts/3063438977011473", "photo":"https://raw.githubusercontent.com/jil8885/djangoapp-kakao-i/master/templates/images/club/hacs.jpg", "width":720, "height":960},
+        {"name" : "후사", "description" : "봉사", "link":"https://www.facebook.com/ericadaesin/posts/3044958298859541", "photo":"https://raw.githubusercontent.com/jil8885/ERICA_api/master/images/club/husa.jpg", "width":1114, "height":969},
+        {"name" : "함께하냥", "description" : "유기동물 봉사", "link":"https://www.facebook.com/ericadaesin/posts/3037969752891729", "photo":"https://raw.githubusercontent.com/jil8885/ERICA_api/master/images/club/hanyang.jpg", "width":1120, "height":1125},
+        {"name" : "HACS", "description" : "교육기부, 멘토링", "link":"https://www.facebook.com/ericadaesin/posts/3063438977011473", "photo":"https://raw.githubusercontent.com/jil8885/ERICA_api/master/images/club/hacs.jpg", "width":720, "height":960},
         {"name" : "로타텍트", "description" : "봉사", "link":"https://www.facebook.com/ericadaesin/posts/3045273798827991"},
         {"name" : "황토", "description" : "농촌봉사\n🍇대부도 농촌 봉사활동 (사회학점 인정 활동)\n🌿환경 봉사활동 (하천 봉사 등)\n🎤재능 기부 봉사활동\n🔆그 외 봉사활동 추진", "link":"https://www.facebook.com/ericadaesin/posts/3063994596955911"}
     ],
     "culture":[
-        {"name" : "마티니", "description" : "칵테일", "link":"https://www.facebook.com/ericadaesin/posts/3040819865940051", "photo":"https://raw.githubusercontent.com/jil8885/djangoapp-kakao-i/master/templates/images/club/matini.jpg", "width":670, "height":960},
-        {"name" : "E-리카", "description" : "게임", "link":"https://www.facebook.com/ericadaesin/posts/3038099809545390", "photo":"https://raw.githubusercontent.com/jil8885/djangoapp-kakao-i/master/templates/images/club/erica.jpg", "width":1280, "height":1280},
+        {"name" : "마티니", "description" : "칵테일", "link":"https://www.facebook.com/ericadaesin/posts/3040819865940051", "photo":"https://raw.githubusercontent.com/jil8885/ERICA_api/master/images/club/matini.jpg", "width":670, "height":960},
+        {"name" : "E-리카", "description" : "게임", "link":"https://www.facebook.com/ericadaesin/posts/3038099809545390", "photo":"https://raw.githubusercontent.com/jil8885/ERICA_api/master/images/club/erica.jpg", "width":1280, "height":1280},
         {"name" : "요리조리", "description" : "요리", "link":"https://www.facebook.com/ericadaesin/posts/3051097444912293"},
         {"name" : "TIME", "description" : "시사영어", "link":""},
         {"name" : "유스호스텔", "description" : "여행", "link":""},
@@ -77,9 +77,9 @@
         {"name" : "IVF", "description" : "한국기독학생회", "link":""}
     ],
     "others":[
-        {"name" : "멋쟁이 사자처럼", "description" : "코딩교육/창업 동아리\nHack Your Life! 비전공자, 전공자 누구나 내 아이디어를 직접 웹 서비스로 구현하여 세상을 바꿀 수 있습니다.", "link":"https://www.facebook.com/likelion.hyuerica/posts/1295530423970689", "link2":"http://bit.ly/2IygLil", "link3":"https://open.kakao.com/o/sLJ9te0b", "photo":"https://raw.githubusercontent.com/jil8885/djangoapp-kakao-i/master/templates/images/club/hansomelion/HansomeLion1.jpeg", "width":1333, "height":950},
-        {"name" : "엔젤루스", "description" : "안녕하세요? 한양대학교ERICA 아마추어 오케스트라 ANGELUS입니다!👏👏👏\nANGELUS는 학생처 산하의 기구로, 음악을 좋아하는 사람들이 모인 대학 오케스트라입니다🎻", "link":"https://everytime.kr/418756/v/109020407", "photo":"https://raw.githubusercontent.com/jil8885/djangoapp-kakao-i/master/templates/images/club/angelus.jpg", "width":1280, "height":1512},
-        {"name" : "한대신문", "description" : "❣한대신문 82기 수습기자 모집❣\n61년의 역사를 자랑하는 한양대학교 최초의 언론기구,\n 한대신문에서 82기 수습기자를 모집합니다!", "link":"https://www.facebook.com/ericadaesin/posts/3049087625113275", "photo":"https://raw.githubusercontent.com/jil8885/djangoapp-kakao-i/master/templates/images/club/news.jpg", "width":679, "height":960},
-        {"name" : "스킨스쿠버", "description" : "바다좋아하고 열정넘치는 새내기여러분을 환영합니다~", "link":"https://everytime.kr/418756/v/107884410", "photo":"https://raw.githubusercontent.com/jil8885/djangoapp-kakao-i/master/templates/images/club/skinskoover.jpeg", "width":679, "height":960}
+        {"name" : "멋쟁이 사자처럼", "description" : "코딩교육/창업 동아리\nHack Your Life! 비전공자, 전공자 누구나 내 아이디어를 직접 웹 서비스로 구현하여 세상을 바꿀 수 있습니다.", "link":"https://www.facebook.com/likelion.hyuerica/posts/1295530423970689", "link2":"http://bit.ly/2IygLil", "link3":"https://open.kakao.com/o/sLJ9te0b", "photo":"https://raw.githubusercontent.com/jil8885/ERICA_api/master/images/club/hansomelion/HansomeLion1.jpeg", "width":1333, "height":950},
+        {"name" : "엔젤루스", "description" : "안녕하세요? 한양대학교ERICA 아마추어 오케스트라 ANGELUS입니다!👏👏👏\nANGELUS는 학생처 산하의 기구로, 음악을 좋아하는 사람들이 모인 대학 오케스트라입니다🎻", "link":"https://everytime.kr/418756/v/109020407", "photo":"https://raw.githubusercontent.com/jil8885/ERICA_api/master/images/club/angelus.jpg", "width":1280, "height":1512},
+        {"name" : "한대신문", "description" : "❣한대신문 82기 수습기자 모집❣\n61년의 역사를 자랑하는 한양대학교 최초의 언론기구,\n 한대신문에서 82기 수습기자를 모집합니다!", "link":"https://www.facebook.com/ericadaesin/posts/3049087625113275", "photo":"https://raw.githubusercontent.com/jil8885/ERICA_api/master/images/club/news.jpg", "width":679, "height":960},
+        {"name" : "스킨스쿠버", "description" : "바다좋아하고 열정넘치는 새내기여러분을 환영합니다~", "link":"https://everytime.kr/418756/v/107884410", "photo":"https://raw.githubusercontent.com/jil8885/ERICA_api/master/images/club/skinskoover.jpeg", "width":679, "height":960}
     ]
 }

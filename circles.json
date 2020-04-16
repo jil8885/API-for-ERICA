@@ -3,26 +3,26 @@
         {"name" : "FIFO", "description" : "축구/친목동아리", "link":"https://www.facebook.com/ericadaesin/posts/3063183433703694"}
     ],
     "ict":[
-        {"name" : "오버테일", "description" : "게임개발 학회", "link":"https://www.facebook.com/ericadaesin/posts/3037917479563623","photo":"https://raw.githubusercontent.com/jil8885/djangoapp-kakao-i/master/templates/images/club/overtale.jpg", "width":721, "height":960}
+        {"name" : "오버테일", "description" : "게임개발 학회", "link":"https://www.facebook.com/ericadaesin/posts/3037917479563623","photo":"https://raw.githubusercontent.com/jil8885/ERICA_api/master/images/club/overtale.jpg", "width":721, "height":960}
     ],
     "soft":[
-        {"name" : "자람", "description" : "☆제작자가 다니는 학회\n코딩/전공세미나학회", "link":"https://www.facebook.com/ericadaesin/posts/3053355768019794", "photo":"https://raw.githubusercontent.com/jil8885/djangoapp-kakao-i/master/templates/images/club/jaram.jpg", "width":1280, "height":1280},
-        {"name" : "하이큐브", "description" : "정보보안학회", "link":"https://www.facebook.com/ericadaesin/posts/3042231435798894", "photo":"https://raw.githubusercontent.com/jil8885/djangoapp-kakao-i/master/templates/images/club/hycube.jpg", "width":678, "height":960},
+        {"name" : "자람", "description" : "☆제작자가 다니는 학회\n코딩/전공세미나학회", "link":"https://www.facebook.com/ericadaesin/posts/3053355768019794", "photo":"https://raw.githubusercontent.com/jil8885/ERICA_api/master/images/club/jaram.jpg", "width":1280, "height":1280},
+        {"name" : "하이큐브", "description" : "정보보안학회", "link":"https://www.facebook.com/ericadaesin/posts/3042231435798894", "photo":"https://raw.githubusercontent.com/jil8885/ERICA_api/master/images/club/hycube.jpg", "width":678, "height":960},
         {"name" : "영과일", "description" : "알고리즘학회", "link":"https://www.facebook.com/ericadaesin/posts/3036655446356493"},
         {"name" : "알파", "description" : "앱개발 학회", "link":""},
-        {"name" : "JOY", "description" : "기타동아리", "link":"https://www.facebook.com/ericadaesin/posts/3053357298019641", "photo":"https://raw.githubusercontent.com/jil8885/djangoapp-kakao-i/master/templates/images/club/joy.jpg", "width":1280, "height":1271}
+        {"name" : "JOY", "description" : "기타동아리", "link":"https://www.facebook.com/ericadaesin/posts/3053357298019641", "photo":"https://raw.githubusercontent.com/jil8885/ERICA_api/master/images/club/joy.jpg", "width":1280, "height":1271}
     ],
     "architecture":[],
     "civil":[],
     "transport":[],
     "electric":[
-        {"name" : "Default", "description" : "전공학회", "link":"https://www.facebook.com/ericadaesin/posts/3054203627935008", "photo":"https://raw.githubusercontent.com/jil8885/djangoapp-kakao-i/master/templates/images/club/default.jpg", "width":480, "height":484},
+        {"name" : "Default", "description" : "전공학회", "link":"https://www.facebook.com/ericadaesin/posts/3054203627935008", "photo":"https://raw.githubusercontent.com/jil8885/ERICA_api/master/images/club/default.jpg", "width":480, "height":484},
         {"name" : "한배움지기", "description" : "전공학회", "link":"https://www.facebook.com/ericadaesin/posts/3038528899502481"},
         {"name" : "HY-ENA", "description" : "하드웨어/임베디드", "link":"https://www.facebook.com/ericadaesin/posts/3020605741294797", "width":1280, "height":924},
-        {"name" : "HY-HIGH", "description" : "드론/하드웨어", "link":"https://www.facebook.com/ericadaesin/posts/3020604231294948", "photo":"https://raw.githubusercontent.com/jil8885/djangoapp-kakao-i/master/templates/images/club/hyhigh.jpg", "width":1280, "height":924},
-        {"name" : "HIDRA", "description" : "자율주행/임베디드", "link":"https://www.facebook.com/hanyanghidra", "photo":"https://raw.githubusercontent.com/jil8885/djangoapp-kakao-i/020a524e0a80baf7f95356d4ee66bdb40665851c/templates/images/club/hidra.png", "width":960, "height":960},
-        {"name" : "ISFC", "description" : "축구동아리", "link":"https://www.facebook.com/ericadaesin/posts/3017304224958282", "photo":"https://raw.githubusercontent.com/jil8885/djangoapp-kakao-i/master/templates/images/club/isfc.png", "width":696, "height":564},
-        {"name" : "OHM", "description" : "농구동아리", "link":"https://www.facebook.com/ericadaesin/posts/3013204162034955", "photo":"https://raw.githubusercontent.com/jil8885/djangoapp-kakao-i/master/templates/images/club/ohm.jpg", "width":1280, "height":1281}
+        {"name" : "HY-HIGH", "description" : "드론/하드웨어", "link":"https://www.facebook.com/ericadaesin/posts/3020604231294948", "photo":"https://raw.githubusercontent.com/jil8885/ERICA_api/master/images/club/hyhigh.jpg", "width":1280, "height":924},
+        {"name" : "HIDRA", "description" : "자율주행/임베디드", "link":"https://www.facebook.com/hanyanghidra", "photo":"https://raw.githubusercontent.com/jil8885/ERICA_api/master/images/club/hidra.png", "width":960, "height":960},
+        {"name" : "ISFC", "description" : "축구동아리", "link":"https://www.facebook.com/ericadaesin/posts/3017304224958282", "photo":"https://raw.githubusercontent.com/jil8885/ERICA_api/master/images/club/isfc.png", "width":696, "height":564},
+        {"name" : "OHM", "description" : "농구동아리", "link":"https://www.facebook.com/ericadaesin/posts/3013204162034955", "photo":"https://raw.githubusercontent.com/jil8885/ERICA_api/master/images/club/ohm.jpg", "width":1280, "height":1281}
     ],
     "mechanic":[
         {"name" : "REAL", "description" : "전공학회\n신청기간:~3/22", "link":"https://forms.gle/7KeGEj6FHVk8W7Ti9"},
@@ -37,7 +37,7 @@
     ],
     "military":[],
     "engineering":[
-        {"name" : "FOURTOR", "description" : "자작자동차학회", "link":"https://www.facebook.com/ericadaesin/posts/3049084475113590", "photo":"https://raw.githubusercontent.com/jil8885/djangoapp-kakao-i/master/templates/images/club/fourtor.jpg", "width":900, "height":900}
+        {"name" : "FOURTOR", "description" : "자작자동차학회", "link":"https://www.facebook.com/ericadaesin/posts/3049084475113590", "photo":"https://raw.githubusercontent.com/jil8885/ERICA_api/master/images/club/fourtor.jpg", "width":900, "height":900}
     ],
     "pharmacy":[],
     "math":[],
@@ -57,21 +57,23 @@
     "ad":[],
     "news":[],
     "gukmun":[
-        {"name" : "무애", "description" : "댄스", "link":"https://www.facebook.com/hyericabaro/videos/1295708653972780/", "photo":"https://raw.githubusercontent.com/jil8885/djangoapp-kakao-i/master/templates/images/club/muae.jpg", "width":1280, "height":1811},
-        {"name" : "CRUX", "description" : "밴드동아리\n모집분야:기타,드럼,베이스,보컬,키보드\n활동:연2회 공연,매주 목요일 정기모임&뒷풀이,세션별 멘토링,보컬 클래스,MT", "link":"http://naver.me/xqGnPF58", "link2": "https://open.kakao.com/o/ssYdOI1b", "photo" : "https://raw.githubusercontent.com/jil8885/djangoapp-kakao-i/master/templates/images/club/CRUX/CRUX1.jpeg", "width" : 900, "height" : 900}
+        {"name" : "무애", "description" : "댄스", "link":"https://www.facebook.com/hyericabaro/videos/1295708653972780/", "photo":"https://raw.githubusercontent.com/jil8885/ERICA_api/master/images/club/muae.jpg", "width":1280, "height":1811},
+        {"name" : "CRUX", "description" : "밴드동아리\n모집분야:기타,드럼,베이스,보컬,키보드\n활동:연2회 공연,매주 목요일 정기모임&뒷풀이,세션별 멘토링,보컬 클래스,MT", "link":"http://naver.me/xqGnPF58", "link2": "https://open.kakao.com/o/ssYdOI1b", "photo" : "https://raw.githubusercontent.com/jil8885/ERICA_api/master/images/club/CRUX/CRUX1.jpeg", "width" : 900, "height" : 900}
     ],
     "economy_college":[
-        {"name" : "TRAVIS", "description" : "경상대학 여행학회", "link" : "https://www.facebook.com/729920077030053/posts/3090209031001134", "photo":"https://raw.githubusercontent.com/jil8885/django-mainline/master/hyuabot/templates/images/club/travis.jpg", "width" : 959, "height":535},
-        {"name" : "MAVEN", "description" : "경상대학 축구/풋살 학회", "link" : "https://www.facebook.com/729920077030053/posts/3091581760863861", "photo":"https://raw.githubusercontent.com/jil8885/django-mainline/master/hyuabot/templates/images/club/maven.png", "width" : 268, "height":268},
+        {"name" : "TRAVIS", "description" : "경상대학 여행학회", "link" : "https://www.facebook.com/729920077030053/posts/3090209031001134", "photo":"https://raw.githubusercontent.com/jil8885/ERICA_api/master/images/club/travis.jpg", "width" : 959, "height":535},
+        {"name" : "MAVEN", "description" : "경상대학 축구/풋살 학회", "link" : "https://www.facebook.com/729920077030053/posts/3091581760863861", "photo":"https://raw.githubusercontent.com/jil8885/ERICA_api/master/images/club/maven.png", "width" : 268, "height":268},
+        {"name" : "MAVEN", "description" : "경상대학 축구/풋살 학회", "link" : "https://www.facebook.com/729920077030053/posts/3091581760863861", "photo":"https://raw.githubusercontent.com/jil8885/ERICA_api/master/images/club/maven.png", "width" : 268, "height":268},
+        {"name" : "MAVEN", "description" : "경상대학 축구/풋살 학회", "link" : "https://www.facebook.com/729920077030053/posts/3091581760863861", "photo":"https://raw.githubusercontent.com/jil8885/ERICA_api/master/images/club/maven.png", "width" : 268, "height":268},
         {"name" : "퓨어", "description" : "The PurE는 경상대학 유일무이 밴드학회입니다.🎶\n대학생활을 즐기고 싶은 분!\n악기를 배워보고 싶은 분!\n선배, 동기들과 다양한 추억을 쌓고 싶은 분!", "link":"https://www.facebook.com/729920077030053/posts/3090251474330223"}
     ],
     "economy":[
-        {"name" : "시시비비", "description" : "경제학부 발표학회", "link" : "https://www.facebook.com/729920077030053/posts/3091738584181512", "photo":"https://raw.githubusercontent.com/jil8885/django-mainline/master/hyuabot/templates/images/club/sisibibi.jpg", "width" : 596, "height":842},
-        {"name" : "수평사고", "description" : "경제학부 토론학회", "link" : "https://www.facebook.com/729920077030053/posts/3091960007492703", "photo":"https://raw.githubusercontent.com/jil8885/django-mainline/master/hyuabot/templates/images/club/soopyeong.jpg", "width" : 960, "height":960}
+        {"name" : "시시비비", "description" : "경제학부 발표학회", "link" : "https://www.facebook.com/729920077030053/posts/3091738584181512", "photo":"https://raw.githubusercontent.com/jil8885/ERICA_api/master/images/club/sisibibi.jpg", "width" : 596, "height":842},
+        {"name" : "수평사고", "description" : "경제학부 토론학회", "link" : "https://www.facebook.com/729920077030053/posts/3091960007492703", "photo":"https://raw.githubusercontent.com/jil8885/ERICA_api/master/images/club/soopyeong.jpg", "width" : 960, "height":960}
     ],
     "biz":[
-        {"name" : "광야", "description" : "경영학부 수상레저학회", "link" : "https://www.facebook.com/위풍당당-행세광야-180090105971153", "photo":"https://raw.githubusercontent.com/jil8885/django-mainline/master/hyuabot/templates/images/club/gwangya.jpg", "width" : 720, "height":720},
-        {"name" : "한사랑", "description" : "경영학부 토론학회", "link" : "https://www.facebook.com/729920077030053/posts/3091579444197426", "photo":"https://raw.githubusercontent.com/jil8885/django-mainline/master/hyuabot/templates/images/club/hansarang.jpg", "width" : 959, "height":600}
+        {"name" : "광야", "description" : "경영학부 수상레저학회", "link" : "https://www.facebook.com/위풍당당-행세광야-180090105971153", "photo":"https://raw.githubusercontent.com/jil8885/ERICA_api/master/images/club/gwangya.jpg", "width" : 720, "height":720},
+        {"name" : "한사랑", "description" : "경영학부 토론학회", "link" : "https://www.facebook.com/729920077030053/posts/3091579444197426", "photo":"https://raw.githubusercontent.com/jil8885/ERICA_api/master/images/club/hansarang.jpg", "width" : 959, "height":600}
     ],
     "insurance":[],
     "tax":[],
