@@ -63,13 +63,13 @@
     "economy_college":[
         {"name" : "TRAVIS", "description" : "경상대학 여행학회", "link" : "https://www.facebook.com/729920077030053/posts/3090209031001134", "photo":"https://raw.githubusercontent.com/jil8885/ERICA_api/master/images/club/travis.jpg", "width" : 959, "height":535},
         {"name" : "MAVEN", "description" : "경상대학 축구/풋살 학회", "link" : "https://www.facebook.com/729920077030053/posts/3091581760863861", "photo":"https://raw.githubusercontent.com/jil8885/ERICA_api/master/images/club/maven.png", "width" : 268, "height":268},
-        {"name" : "MAVEN", "description" : "경상대학 축구/풋살 학회", "link" : "https://www.facebook.com/729920077030053/posts/3091581760863861", "photo":"https://raw.githubusercontent.com/jil8885/ERICA_api/master/images/club/maven.png", "width" : 268, "height":268},
-        {"name" : "MAVEN", "description" : "경상대학 축구/풋살 학회", "link" : "https://www.facebook.com/729920077030053/posts/3091581760863861", "photo":"https://raw.githubusercontent.com/jil8885/ERICA_api/master/images/club/maven.png", "width" : 268, "height":268},
+        {"name" : "HY-SCHOLAR", "description" : "🙋‍♀안녕하세요🙋‍♂\n📣한양대학교 Erica 경상학회\nHY-SCHOLAR입니다📣\n🏅당신을 피피티와 발표장인으로 만들어드립니다🏅\n ﾟ+.(ﾉ*･ω･)ﾉ*.☆ﾟ･:*☆", "link" : "https://www.facebook.com/729920077030053/posts/3091402430881794", "photo":"https://raw.githubusercontent.com/jil8885/ERICA_api/master/images/club/HY-SCHOLAR.jpg", "width" : 960, "height":540},
         {"name" : "퓨어", "description" : "The PurE는 경상대학 유일무이 밴드학회입니다.🎶\n대학생활을 즐기고 싶은 분!\n악기를 배워보고 싶은 분!\n선배, 동기들과 다양한 추억을 쌓고 싶은 분!", "link":"https://www.facebook.com/729920077030053/posts/3090251474330223"}
     ],
     "economy":[
         {"name" : "시시비비", "description" : "경제학부 발표학회", "link" : "https://www.facebook.com/729920077030053/posts/3091738584181512", "photo":"https://raw.githubusercontent.com/jil8885/ERICA_api/master/images/club/sisibibi.jpg", "width" : 596, "height":842},
-        {"name" : "수평사고", "description" : "경제학부 토론학회", "link" : "https://www.facebook.com/729920077030053/posts/3091960007492703", "photo":"https://raw.githubusercontent.com/jil8885/ERICA_api/master/images/club/soopyeong.jpg", "width" : 960, "height":960}
+        {"name" : "수평사고", "description" : "경제학부 토론학회", "link" : "https://www.facebook.com/729920077030053/posts/3091960007492703", "photo":"https://raw.githubusercontent.com/jil8885/ERICA_api/master/images/club/soopyeong.jpg", "width" : 960, "height":960},
+        {"name" : "구름구름", "description" : "경제학부 멀티스포츠학회", "link" : "https://www.facebook.com/erica.gyeongsang/posts/2673292112904473", "photo":"https://raw.githubusercontent.com/jil8885/ERICA_api/master/images/club/goormgoorm.jpg", "width" : 802, "height":600}
     ],
     "biz":[
         {"name" : "광야", "description" : "경영학부 수상레저학회", "link" : "https://www.facebook.com/위풍당당-행세광야-180090105971153", "photo":"https://raw.githubusercontent.com/jil8885/ERICA_api/master/images/club/gwangya.jpg", "width" : 720, "height":720},
