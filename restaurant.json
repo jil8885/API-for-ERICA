@@ -1,239 +1,379 @@
 { 
-    "213버거":{ 
-       "phone":"031-418-0213"
-    },
-    "굽네치킨":{ 
-       "phone":"031-415-8295"
-    },
-    "김밥천국":{ 
-       "phone":"031-416-9545"
-    },
-    "김밥큐":{ 
-       "phone":"031-416-5657"
-    },
-    "난집에돈까스":{ 
-       "phone":"031-408-1145"
-    },
-    "덴뿌라":{ 
-       "phone":"031-418-3370"
-    },
-    "마당닭칼국수":{ 
-       "phone":"031-401-1992"
-    },
-    "메콩강":{ 
-       "phone":"031-418-6412"
-    },
-    "명동찌개마을 ":{ 
-       "phone":"031-406-1934"
-    },
-    "미스터피자":{ 
-       "phone":"031-416-3300"
-    },
-    "밀숲":{ 
-       "phone":"031-408-8625"
-    },
-    "병천순대":{ 
-       "phone":"031-437-5822"
-    },
-    "봉추찜닭":{ 
-       "phone":"031-416-6981"
-    },
-    "서브웨이":{ 
-       "phone":"031-409-9007"
-    },
-    "스낵플랜트":{ 
-       "phone":"031-407-8609"
-    },
-    "신북경":{ 
-       "phone":"031-502-8001"
-    },
-    "신정골뼈해장국":{ 
-       "phone":"031-418-0992"
-    },
-    "신탕국물떡볶이":{ 
-       "phone":"031-406-0160"
-    },
-    "월남국수":{ 
-       "phone":"031-417-2524"
-    },
-    "월수금":{ 
-       "phone":"031-502-2272"
-    },
-    "유가네 닭갈비":{ 
-       "phone":"031-417-8865"
-    },
-    "유원치킨":{ 
-       "phone":"031-502-9279"
-    },
-    "육앤샤":{ 
-       "phone":"031-409-3535"
-    },
-    "이조설렁탕":{ 
-       "phone":"031-418-8898"
-    },
-    "찌개찌개":{ 
-       "phone":"031-419-1523"
-    },
-    "참숯연기":{ 
-       "phone":"031-407-8865"
-    },
-    "청학칡냉면":{ 
-       "phone":"031-418-2255"
-    },
-    "취해":{ 
-       "phone":"031-408-2427"
-    },
-    "카페모리아":{ 
-       "phone":"031-8254-6614"
-    },
-    "콩사돈":{ 
-       "phone":"031-415-1352"
-    },
-    "키친모리아":{ 
-       "phone":"031-502-6614"
-    },
-    "탐나는 바지락 손칼국수":{ 
-       "phone":"031-438-1007"
-    },
-    "토마토 도시락":{ 
-       "phone":"031-411-7224"
-    },
-    "포냐향":{ 
-       "phone":"031-407-5021"
-    },
-    "피자스쿨":{ 
-       "phone":"031-409-9122"
-    },
-    "한솥도시락":{ 
-       "phone":"031-501-5556"
-    },
-    "한양생고기":{ 
-       "phone":"031-407-2347"
-    },
-    "한우궁":{ 
-       "phone":"031-408-3455"
-    },
-    "홍당무":{ 
-       "phone":"031-503-2297"
-    },
-    "1인1닭":{ 
-       "phone":"031-437-9292"
-    },
-    "ozbek":{ 
-       "phone":"031-406-1914"
-    },
-    "김가네":{ 
-       "phone":"031-409-0022"
-    },
-    "대학통닭":{ 
-       "phone":"031-501-0950"
-    },
-    "더치킨":{ 
-       "phone":"031-437-8777"
-    },
-    "덮밥떡볶이":{ 
-       "phone":"031-406-8381"
-    },
-    "도스마스":{ 
-       "phone":"031-409-6969"
-    },
-    "동아리식당":{ 
-       "phone":"031-407-8685"
-    },
-    "돼가네":{ 
-       "phone":"031-416-7701"
-    },
-    "들녘":{ 
-       "phone":"031-416-9292"
-    },
-    "또바기":{ 
-       "phone":"0507-0493-0122"
-    },
-    "신발신은기봉이":{ 
-       "phone":"031-436-2777"
-    },
-    "마루회덮밥":{ 
-       "phone":"031-406-4954"
-    },
-    "맛자랑":{ 
-       "phone":"031-409-3993"
-    },
-    "머꼬가자":{ 
-       "phone":"031-408-0033"
-    },
-    "명가떡볶이":{ 
-       "phone":"031-501-8782"
-    },
-    "미쳐버린파닭":{ 
-       "phone":"031-407-9247"
-    },
-    "밥알":{ 
-       "phone":"031-407-3433"
-    },
-    "비스트로따봄":{ 
-       "phone":"031-501-2275"
-    },
-    "빅보이":{ 
-       "phone":"031-502-1223"
-    },
-    "송쉪":{ 
-       "phone":"031-480-4595"
-    },
-    "썬더치킨":{ 
-       "phone":"031-409-8313"
-    },
-    "알촌":{ 
-       "phone":"031-415-3001"
-    },
-    "에비수":{ 
-       "phone":"031-502-3012"
-    },
-    "옛날학사":{ 
-       "phone":"031-418-7184"
-    },
-    "와부대제육":{ 
-       "phone":"031-415-5577"
-    },
-    "우당탕":{ 
-       "phone":"031-406-0078"
-    },
-    "은성밥차":{ 
-       "phone":"031-417-4235"
-    },
-    "인삼족발보쌈":{ 
-       "phone":"050-4111-4097"
-    },
-    "일미닭갈비":{ 
-       "phone":"031-503-8800"
-    },
-    "장또방쭈꾸미":{ 
-       "phone":"031-415-6692"
-    },
-    "젤리팩토리":{ 
-       "phone":"031-501-2668"
-    },
-    "집밥클럽":{ 
-       "phone":"031-408-7790"
-    },
-    "짜장클럽":{ 
-       "phone":"031-501-7077"
-    },
-    "청춘식당":{ 
-       "phone":"070-4001-3268"
-    },
-    "플랜비":{ 
-       "phone":"010-5589-5444"
-    },
-    "피자헤븐":{ 
-       "phone":"031-407-7007"
-    },
-    "한양식당":{ 
-       "phone":"031-408-9008"
-    },
-    "한양통닭":{ 
-       "phone":"031-419-2552"
-    },
-    "행복한짬뽕":{ 
-       "phone":"031-417-0606"
-    }
+   "213버거":
+   { 
+      "cat" : "american",
+      "menu" : "햄버거",
+      "phone":"031-418-0213",
+      "place" : "https://place.map.kakao.com/m/1757404887"
+   },
+   "김밥천국":
+   { 
+      "cat" : "korean",
+      "menu" : "김밥, 라면",
+      "phone":"031-416-9545",
+      "place" : "https://place.map.kakao.com/m/16160450"
+   },
+   "김밥큐":
+   { 
+      "cat" : "korean",
+      "menu" : "김밥, 라면",
+      "phone":"031-416-5657",
+      "place" : "https://place.map.kakao.com/m/16163863"
+   },
+   "난집에돈까스":
+   { 
+      "cat" : "japan",
+      "menu" : "돈까스",
+      "phone":"031-408-1145",
+      "place" : "https://place.map.kakao.com/m/349034845"
+   },
+   "메콩강":
+   { 
+      "cat" : "vietnam",
+      "menu" : "쌀국수, 볶음밥",
+      "phone":"031-418-6412",
+      "place" : "https://place.map.kakao.com/m/27460894"
+   },
+   "명동찌개마을 ":
+   {
+      "cat" :"korean",
+      "menu" : "찌개",
+      "phone":"031-406-1934",
+      "place" : "https://place.map.kakao.com/m/717121844"
+   },
+   "미스터피자":
+   { 
+      "cat" : "pizza",
+      "menu" : "피자, 샐러드바",
+      "phone":"031-416-3300",
+      "place" : "https://place.map.kakao.com/m/17069487"
+   },
+   "밀숲":{
+      "cat" : "korean",
+      "menu" : "국수",
+      "phone":"031-408-8625",
+      "place" : "https://place.map.kakao.com/m/27269174"
+   },
+   "병천순대":{
+      "cat" :"korean",
+      "menu" : "순대",
+      "phone":"031-437-5822",
+      "place" : "https://place.map.kakao.com/m/16709599"
+   },
+   "서브웨이":{
+      "cat" : "american",
+      "menu" : "샌드위치",
+      "phone":"031-409-9007",
+      "place" : "https://place.map.kakao.com/m/121447815"
+   },
+   "스낵플랜트":{
+      "cat" :"korean",
+      "menu" : "분식",
+      "phone":"031-407-8609",
+      "place" : "https://place.map.kakao.com/m/609823579"
+   },
+   "신정골뼈해장국":{ 
+      "cat" : "korean",
+      "menu" : "해장국",
+      "phone":"031-418-0992",
+      "place" : "https://place.map.kakao.com/m/12766317"
+   },
+   "신탕국물떡볶이":{
+      "cat" :"korean",
+      "menu" :"분식, 도시락",
+      "phone":"031-406-0160",
+      "place" : "https://place.map.kakao.com/m/958976216"
+   },
+   "월수금":{ 
+      "cat" : "korean",
+      "menu" :"찌개",
+      "phone":"031-502-2272",
+      "place" : "https://place.map.kakao.com/m/21690722"
+   },
+   "유가네 닭갈비":{
+      "cat" : "korean",
+      "menu" : "닭갈비", 
+      "phone":"031-417-8865",
+      "place" : "https://place.map.kakao.com/m/27423369"
+   },
+   "유원치킨":{
+      "cat" : "chicken",
+      "menu" : "치킨",
+      "phone":"031-502-9279",
+      "place" : "https://place.map.kakao.com/m/10679599"
+   },
+   "육앤샤":{
+      "cat" : "korean",
+      "menu" : "육회, 덮밥",
+      "phone":"031-409-3535",
+      "place" : "https://place.map.kakao.com/m/27155005"
+   },
+   "찌개찌개":{
+      "cat" : "korean",
+      "menu" :"찌개",
+      "phone":"031-419-1523",
+      "place" : "https://place.map.kakao.com/m/11779282"
+   },
+   "참숯연기":{
+      "cat" : "meat",
+      "menu" : "곱창, 고기",
+      "phone":"031-407-8865",
+      "place" : "https://place.map.kakao.com/m/16468321"
+   },
+   "청학칡냉면":{ 
+      "cat" : "korean",
+      "menu" : "냉면",
+      "phone":"031-418-2255",
+      "place" : "https://place.map.kakao.com/m/16529922"
+   },
+   "취해":{
+      "cat" : "japan",
+      "menu" : "초밥, 회",
+      "phone":"031-408-2427",
+      "place" : "https://place.map.kakao.com/m/16833547"
+   },
+   "카페모리아":{
+      "cat" : "american",
+      "menu" : "스파게티, 리조또 등",
+      "phone":"031-8254-6614",
+      "place" : "https://place.map.kakao.com/m/16164373"
+   },
+   "키친모리아":{
+      "cat" : "american",
+      "menu" : "덮밥, 스테이크",
+      "phone":"031-502-6614",
+      "place" : "https://m.place.naver.com/restaurant/738452952/home"
+   },
+   "탐나는 바지락 손칼국수":{ 
+      "cat" :"korean",
+      "menu" : "칼국수, 만두",
+      "phone":"031-438-1007",
+      "place" : "https://place.map.kakao.com/m/1850172298"
+   },
+   "토마토 도시락":{
+      "cat" : "korean",
+      "menu" : "도시락",
+      "phone":"031-411-7224",
+      "place" : "https://place.map.kakao.com/m/11397991"
+   },
+   "포냐향":{
+      "cat" : "vietnam",
+      "menu" :"쌀국수, 볶음밥",
+      "phone":"031-407-5021",
+      "place" : "https://m.place.naver.com/restaurant/33232907/home"
+   },
+   "피자스쿨":{
+      "cat" : "pizza",
+      "menu" : "피자",
+      "phone":"031-409-9122",
+      "place" : "https://place.map.kakao.com/m/17255004"
+   },
+   "한솥도시락":{
+      "cat" : "korean",
+      "menu" : "도시락",
+      "phone":"031-501-5556",
+      "place" : "https://place.map.kakao.com/m/11634989"
+   },
+   "한양생고기":{
+      "cat" : "meat",
+      "menu" : "고깃집",
+      "phone":"031-407-2347",
+      "place" : "https://place.map.kakao.com/m/13563436"
+   },
+   "한우궁":{
+      "cat" : "korean",
+      "menu" : "전골, 국밥, 불고기",
+      "phone":"031-408-3455",
+      "place" : "https://place.map.kakao.com/m/2088283250"
+   },
+   "홍당무":{
+      "cat" : "korean",
+      "menu" : "찌개, 칼국수",
+      "phone":"031-503-2297",
+      "place" : "https://place.map.kakao.com/m/21357762"
+   },
+   "1인1닭":{
+      "cat" : "chicken",
+      "menu" : "치킨",
+      "phone":"031-437-9292",
+      "place" : "https://place.map.kakao.com/m/266459064"
+   },
+   "ozbek":{ 
+      "cat" : "others",
+      "menu" : "우즈벡 음식",
+      "phone":"031-406-1914",
+      "place" : "https://place.map.kakao.com/m/750136476"
+   },
+   "김가네":{
+      "cat" : "korean",
+      "menu" : "김밥, 라면",
+      "phone":"031-409-0022",
+      "place" : "https://place.map.kakao.com/m/10198644"
+   },
+   "대학통닭":{
+      "cat" : "chicken",
+      "menu" : "치킨",
+      "phone":"031-501-0950",
+      "place" : "https://place.map.kakao.com/m/16713723"
+   },
+   "더치킨":{ 
+      "cat" : "chicken",
+      "menu" : "치킨",
+      "phone":"031-437-8777",
+      "place" : "https://place.map.kakao.com/m/1382180055"
+   },
+   "덮밥떡볶이":{
+      "cat" : "korean",
+      "menu" : "덮밥, 떡볶이",
+      "phone":"031-406-8381",
+      "place" : "https://place.map.kakao.com/m/828832467"
+   },
+   "도스마스":{
+      "cat" : "burrito",
+      "menu" : "부리또",
+      "phone":"031-409-6969",
+      "place" : "https://place.map.kakao.com/m/13107563"
+   },
+   "동아리식당":{
+      "cat" : "korean",
+      "menu" : "찌개, 덮밥",
+      "phone":"031-407-8685",
+      "place" : "https://place.map.kakao.com/m/21247560"
+   },
+   "신발신은기봉이":{
+      "cat" : "chicken",
+      "menu" : "치킨",
+      "phone":"031-436-2777",
+      "place" : "https://place.map.kakao.com/m/1139866790"
+   },
+   "마루회덮밥":{
+      "cat" : "japan",
+      "menu" : "회덮밥",
+      "phone":"031-406-4954",
+      "place" : "https://place.map.kakao.com/m/27506707"
+   },
+   "맛자랑":{
+      "cat" : "korean",
+      "menu" : "찌개",
+      "phone":"031-409-3993",
+      "place" : "https://place.map.kakao.com/m/24177093"
+   },
+   "머꼬가자":{ 
+      "cat" : "korean",
+      "menu" : "돈까스",
+      "phone":"031-408-0033",
+      "place" : "https://place.map.kakao.com/m/16601369"
+   },
+   "명가떡볶이":{
+      "cat" : "korean",
+      "menu" : "떡볶이",
+      "phone":"031-501-8782",
+      "place" : "https://place.map.kakao.com/m/16162860"
+   },
+   "미쳐버린파닭":{
+      "cat" : "chicken",
+      "menu" : "치킨",
+      "phone":"031-407-9247",
+      "place" : "https://place.map.kakao.com/m/13491022"
+   },
+   "밥알":{ 
+      "cat" :"korean",
+      "menu" : "주먹밥, 라면",
+      "phone":"031-407-3433",
+      "place" : "https://place.map.kakao.com/m/21351027"
+   },
+   "비스트로따봄":{ 
+      "cat" : "american",
+      "menu" : "파스타",
+      "phone":"031-501-2275",
+      "place" : "https://place.map.kakao.com/m/27492350"
+   },
+   "알촌":{ 
+      "cat" : "korean",
+      "menu" : "알밥",
+      "phone":"031-415-3001",
+      "place" : "https://place.map.kakao.com/m/20627648"
+   },
+   "에비수":{
+      "cat" : "japan",
+      "menu" : "초밥, 우동",
+      "phone":"031-502-3012",
+      "place" : "https://place.map.kakao.com/m/12559465"
+   },
+   "옛날학사":{
+      "cat" : "korean",
+      "menu" : "찌개, 제육",
+      "phone":"031-418-7184",
+      "place" : "https://m.place.naver.com/restaurant/18997607/home"
+   },
+   "은성밥차":
+   { 
+      "cat" : "korean",
+      "menu" : "찌개, 제육",
+      "phone":"031-417-4235",
+      "place" : "https://place.map.kakao.com/m/318983031"
+   },
+   "인삼족발보쌈":
+   { 
+      "cat" : "meat",
+      "menu" :"족발, 보쌈",
+      "phone":"050-4111-4097",
+      "place" : "https://place.map.kakao.com/m/16861123"
+   },
+   "일미닭갈비":
+   {
+      "cat" : "korean",
+      "menu" : "닭갈비",
+      "phone":"031-503-8800",
+      "place" : "https://place.map.kakao.com/m/547233741"
+   },
+   "젤리팩토리":
+   { 
+      "cat" : "meat",
+      "menu" : "족발, 보쌈",
+      "phone":"031-501-2668",
+      "place" : "https://place.map.kakao.com/m/21360935"
+   },
+   "청춘식당":
+   {
+      "cat" : "korean",
+      "menu" : "고기, 국밥 등",
+      "phone":"070-4001-3268",
+      "place" : "https://place.map.kakao.com/m/1351219265"
+   },
+   "플랜비":
+   {
+      "cat" : "burrito",
+      "menu" : "부리또",
+      "phone":"010-5589-5444",
+      "place" : "https://place.map.kakao.com/m/20846740"
+   },
+   "한양식당":
+   {
+      "cat" : "korean",
+      "menu" : "찌개, 덮밥",
+      "phone":"031-408-9008",
+      "place" : "https://place.map.kakao.com/m/10049707"
+   },
+   "한양통닭":
+   {
+      "cat" : "chicken",
+      "menu" : "치킨",
+      "phone":"031-419-2552",
+      "place" : "https://place.map.kakao.com/m/16162184"
+   },
+   "행복한짬뽕":
+   {
+      "cat" : "chinese",
+      "menu" : "중국집",
+      "phone":"031-417-0606",
+      "place" : "https://place.map.kakao.com/m/17472619"
+   },
+   "송호성쉐프의 돈까스" :
+   {
+      "cat" : "japan",
+      "menu" : "돈까스",
+      "phone" : "031-480-4595",
+      "place" : "https://place.map.kakao.com/18429972"
+   }
  }

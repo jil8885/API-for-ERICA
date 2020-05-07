@@ -1,71 +1,115 @@
 { 
-    "42랩":{ 
-       "phone":"031-401-4241"
-    },
-    "6번지":{ 
-       "phone":"031-406-0978"
-    },
-    "그리심":{ 
-       "phone":"031-502-0990"
-    },
-    "떼드떼":{ 
-       "phone":"031-406-6789"
-    },
-    "루앤비":{ 
-       "phone":"031-407-5008"
-    },
-    "르뵈르":{ 
-       "phone":"031-407-5360"
-    },
-    "스타벅스":{ 
-       "phone":"031-415-8654"
-    },
-    "시저커피":{ 
-       "phone":"031-502-7825"
-    },
-    "아마스빈버블티":{ 
-       "phone":"031-507-0079"
-    },
-    "아프리카당나귀":{ 
-       "phone":"031-406-2048"
-    },
-    "워터킹커피로스터스":{ 
-       "phone":"031-409-0655"
-    },
-    "윈드밀":{ 
-       "phone":"031-409-2614"
-    },
-    "이디야커피":{ 
-       "phone":"031-406-4331"
-    },
-    "정군커피":{ 
-       "phone":"031-408-0496"
-    },
-    "카페 에이미":{ 
-       "phone":"031-506-5559"
-    },
-    "카페그레":{ 
-       "phone":"031-419-2495"
-    },
-    "커피만":{ 
-       "phone":"031-408-9833"
-    },
-    "커피플래닛":{ 
-       "phone":"031-415-9734"
-    },
-    "커피플랜트":{ 
-       "phone":"031-501-8609"
-    },
-    "커피히어로":{ 
-       "phone":"031-415-0161"
-    },
-    "타르트블로썸":{ 
-       "phone":"070-8851-1698"
-    },
-    "투썸플레이스":{ 
-       "phone":"031-418-2222"
-    },
-    "마루케잌":{ 
-       "phone":"031-406-1259"
-    }
+   "카페드림 한양대에리카 창의관점":{
+      "phone" : "031-419-6452",
+      "place" : "https://place.map.kakao.com/21489567"
+   },
+   "카페드림 한양대에리카 학생복지관점":{
+      "phone" : "031-400-4541",
+      "place" : "https://place.map.kakao.com/21932776"
+   },
+   "카페드림 한양대에리카 셔틀콕점":{
+      "phone" : "031-400-4557",
+      "place" : "https://place.map.kakao.com/21959470"
+   },
+   "카페드림 한양대에리카 경상관점":{
+      "phone" : "031-400-4559",
+      "place" : "https://place.map.kakao.com/467478329"
+   },
+   "오가다 한양대에리카 경상관점":{
+      "phone" : "031-400-4559",
+      "place" : "https://place.map.kakao.com/900273480"
+   },
+   "위드카페" : {
+      "place" : "https://place.map.kakao.com/1621188760"
+   },
+   "카페가르와 한양대게스트하우스점" : {
+      "place" : "https://place.map.kakao.com/27349286"
+   },
+   "삐노누아" : {
+      "phone" : "031-504-5549",
+      "place" : "https://place.map.kakao.com/21056853"
+   },
+   "커피히어로" : {
+      "place" : "https://place.map.kakao.com/26574102",
+      "phone":"031-415-0161"
+   },
+   "워터킹커피로스터스":{ 
+      "phone":"031-409-0655",
+      "place" : "https://place.map.kakao.com/132825198"
+   },
+   "아마스빈버블티":{ 
+      "phone":"031-507-0079",
+      "place" : "https://place.map.kakao.com/968792817"
+   },
+   "토프레소 안산한양대점":{
+      "phone" : "031-407-3406",
+      "place" : "https://place.map.kakao.com/20376756"
+   },
+   "시저커피":{ 
+      "phone":"031-502-7825",
+      "place" : "https://place.map.kakao.com/102580035"
+   },
+   "프로스콘스":{
+      "place" : "https://place.map.kakao.com/1925525730"
+   },
+   "가치잇는":{
+      "phone" : "031-408-0496",
+      "place" : "https://place.map.kakao.com/1155619142"
+   },
+   "윈드밀":{ 
+      "phone":"031-409-2614",
+      "place" : "https://place.map.kakao.com/12811277"
+   },
+   "모모커피" : {
+      "place" : "https://place.map.kakao.com/991931807"
+   },
+   "쥬씨 안산한양대점":{
+      "phone" : "031-406-6671",
+      "place" : "https://place.map.kakao.com/136183087"
+   },
+   "커피온리 안산한양대점":{
+      "place" : "https://place.map.kakao.com/228807413"
+   },
+   "요거프레소 안산한양대점":{
+      "phone" : "031-501-7500",
+      "place" : "https://place.map.kakao.com/1295403095"
+   },
+   "카페마루":{
+      "phone" : "031-406-1259",
+      "place" : "https://place.map.kakao.com/16159792"
+   },
+   "카페크림":{
+      "place" : "https://place.map.kakao.com/1956498605"
+   },
+   "카페왈레리아":{
+      "phone" : "070-7868-8199",
+      "place" : "https://place.map.kakao.com/1446233897"
+   },
+   "카페코너":{
+      "place" : "https://place.map.kakao.com/649247662"
+   },
+   "한양베이커카페":{
+      "place" : "https://place.map.kakao.com/1301260721"
+   },
+   "아베크모이":{
+      "place" : "https://place.map.kakao.com/1515715235"
+   },
+   "더스윗커피":{
+      "place" : "https://place.map.kakao.com/516287244"
+   },
+   "오늘커피":{
+      "place" : "https://place.map.kakao.com/404838878"
+   },
+   "스타벅스 안산한양대점":{ 
+      "phone":"1522-3232",
+      "place" : "https://place.map.kakao.com/21058558"
+   },
+   "커피플레닛 안산한양대점":{
+      "phone" : "031-418-4554",
+      "place" : "https://place.map.kakao.com/24371808"
+   },
+   "이디야커피 안산한대점":{
+      "phone" : "031-406-4331",
+      "place" : "https://place.map.kakao.com/26854294"
+   }
  }
