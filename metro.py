@@ -4,46 +4,39 @@ workbook = openpyxl.load_workbook('C:\\Users\\Jeongin\\Downloads\\수인분당�
 result = {"weekdays":{"up":[], "down":[]}, "weekend":{"up":[], "down":[]}}
 
 worksheet = workbook['평일(상)']
-row_index = 1
 
-for row in worksheet.rows:
-    if row_index > 2:
+for index, row in enumerate(worksheet.rows):
+    if index > 1:
         if row[openpyxl.utils.column_index_from_string("D") - 1].value:
             if row[openpyxl.utils.column_index_from_string("Z") - 1].value:
                 result['weekdays']['up'].append({"endStn":  row[openpyxl.utils.column_index_from_string("C") - 1].value, "time": str(row[openpyxl.utils.column_index_from_string("Z") - 1].value)})
         else:
             break
-    row_index += 1
 
 worksheet = workbook['평일(하)']
-row_index = 1
 
-for row in worksheet.rows:
-    if row_index > 2:
+for index, row in enumerate(worksheet.rows):
+    if index > 1:
         if row[openpyxl.utils.column_index_from_string("D") - 1].value:
             if row[openpyxl.utils.column_index_from_string("AV") - 1].value:
                 result['weekdays']['down'].append({"endStn":  row[openpyxl.utils.column_index_from_string("C") - 1].value, "time": str(row[openpyxl.utils.column_index_from_string("AV") - 1].value)})
         else:
             break
-    row_index += 1
 
 worksheet = workbook['휴일(상)']
-row_index = 1
 
-for row in worksheet.rows:
-    if row_index > 2:
+for index, row in enumerate(worksheet.rows):
+    if index > 1:
         if row[openpyxl.utils.column_index_from_string("D") - 1].value:
             if row[openpyxl.utils.column_index_from_string("Y") - 1].value:
                 result['weekend']['up'].append({"endStn":  row[openpyxl.utils.column_index_from_string("C") - 1].value, "time": str(row[openpyxl.utils.column_index_from_string("Y") - 1].value)})
         else:
             break
-    row_index += 1
 
 worksheet = workbook['휴일(하)']
-row_index = 1
 
-for row in worksheet.rows:
-    if row_index > 2:
+for index, row in enumerate(worksheet.rows):
+    if index > 1:
         if row[openpyxl.utils.column_index_from_string("D") - 1].value:
             if row[openpyxl.utils.column_index_from_string("AU") - 1].value:
                 result['weekend']['down'].append({"endStn":  row[openpyxl.utils.column_index_from_string("C") - 1].value, "time":str(row[openpyxl.utils.column_index_from_string("AU") - 1].value)})
