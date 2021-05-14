@@ -1,55 +1,27 @@
-import openpyxl, json
+import openpyxl
+import json
 
-workbook = openpyxl.load_workbook('C:\\Users\\Roadtech\\Downloads\\수인분당선 시간표(2020년 11월1일)수정.xlsx', read_only=True, data_only=True)
-result = {"weekdays":{"up":[], "down":[]}, "weekend":{"up":[], "down":[]}}
+from openpyxl.utils import column_index_from_string
 
-worksheet = workbook['평일(상행)']
-row_index = 1
 
-for row in worksheet.rows:
-    if row_index > 2:
-        if row[openpyxl.utils.column_index_from_string("D") - 1].value:
-            if row[openpyxl.utils.column_index_from_string("Z") - 1].value:
-                result['weekdays']['up'].append({"endStn":  row[openpyxl.utils.column_index_from_string("C") - 1].value, "time": str(row[openpyxl.utils.column_index_from_string("Z") - 1].value)})
-        else:
-            break
-    row_index += 1
+def dump_timetable():
+    workbook = openpyxl.load_workbook('C:\\Users\\Jeongin\\Downloads\\수인분당선.xlsx', read_only=True, data_only=True)
+    result = {"weekdays": {"up": [], "down": []}, "weekend": {"up": [], "down": []}}
 
-worksheet = workbook['평일(하행)']
-row_index = 1
+    heading_column = "C"
+    worksheet_information = [("평일상행", "Z", "weekdays", "up"), ("평일하행", "AW", "weekdays", "down"),
+                             ("휴일상행", "Y", "weekend", "up"), ("평일하행", "AU", "weekend", "down")]
 
-for row in worksheet.rows:
-    if row_index > 2:
-        if row[openpyxl.utils.column_index_from_string("D") - 1].value:
-            if row[openpyxl.utils.column_index_from_string("AV") - 1].value:
-                result['weekdays']['down'].append({"endStn":  row[openpyxl.utils.column_index_from_string("C") - 1].value, "time": str(row[openpyxl.utils.column_index_from_string("AV") - 1].value)})
-        else:
-            break
-    row_index += 1
+    for sheet, column, key1, key2 in worksheet_information:
+        worksheet = workbook[sheet]
 
-worksheet = workbook['휴일(상행)']
-row_index = 1
+        for row_index, row in enumerate(worksheet.rows):
+            if row_index > 2:
+                if row[column_index_from_string(column) - 1].value and str(row[column_index_from_string(column) - 1].value).strip():
+                    result[key1][key2].append({"endStn": row[column_index_from_string(heading_column) - 1].value,
+                                               "time": str(row[column_index_from_string(column) - 1].value)})
 
-for row in worksheet.rows:
-    if row_index > 2:
-        if row[openpyxl.utils.column_index_from_string("D") - 1].value:
-            if row[openpyxl.utils.column_index_from_string("Y") - 1].value:
-                result['weekend']['up'].append({"endStn":  row[openpyxl.utils.column_index_from_string("C") - 1].value, "time": str(row[openpyxl.utils.column_index_from_string("Y") - 1].value)})
-        else:
-            break
-    row_index += 1
+    with open('subway/suinline.json', 'w', encoding='utf-8') as f:
+        json.dump(result, f, indent='\t', ensure_ascii=False)
 
-worksheet = workbook['휴일(하행)']
-row_index = 1
-
-for row in worksheet.rows:
-    if row_index > 2:
-        if row[openpyxl.utils.column_index_from_string("D") - 1].value:
-            if row[openpyxl.utils.column_index_from_string("AU") - 1].value:
-                result['weekend']['down'].append({"endStn":  row[openpyxl.utils.column_index_from_string("C") - 1].value, "time":str(row[openpyxl.utils.column_index_from_string("AU") - 1].value)})
-        else:
-            break
-    row_index += 1
-
-with open('subway/suinline.json', 'w', encoding='utf-8') as f:
-    json.dump(result, f, indent='\t', ensure_ascii=False)
+dump_timetable()
